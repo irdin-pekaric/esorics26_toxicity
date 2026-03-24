@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Massive Toxicity Test Page</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    :root {
+      --bg: #0f172a;
+      --card: #111827;
+      --text: #e5e7eb;
+      --muted: #9ca3af;
+      --ok: #22c55e;
+      --warn: #f59e0b;
+      --bad: #ef4444;
+    }
+    html, body { margin:0; padding:0; background:var(--bg); color:var(--text); font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; }
+    header { position:sticky; top:0; background: rgba(17,24,39,0.95); backdrop-filter: blur(6px); border-bottom: 1px solid #1f2937; padding: 12px 16px; z-index: 10; }
+    h1 { margin:0; font-size: 18px; }
+    .grid { display:grid; grid-template-columns: 1fr; gap: 16px; padding: 16px; }
+    .card { background: var(--card); border: 1px solid #1f2937; border-radius: 12px; padding: 16px; }
+    .row { margin: 8px 0; }
+    .pill { display:inline-block; padding: 2px 8px; border-radius: 999px; font-size: 12px; margin-left: 8px; }
+    .pill.ok { background: rgba(34,197,94,.15); color: var(--ok); border: 1px solid rgba(34,197,94,.3) }
+    .pill.bad { background: rgba(239,68,68,.15); color: var(--bad); border: 1px solid rgba(239,68,68,.3) }
+    .muted { color: var(--muted); font-size: 12px; }
+    code { background: #0b1220; padding: 2px 6px; border-radius: 6px; border: 1px solid #111827; }
+    .controls { display:flex; gap:8px; flex-wrap:wrap; margin-top:8px; }
+    button { background:#1f2937; color:var(--text); border:1px solid #374151; border-radius:8px; padding:8px 10px; cursor:pointer; }
+    button:hover { background:#243041; }
+    .section-title { font-weight: 700; margin: 6px 0 10px; }
+    .para { line-height: 1.6; margin: 6px 0; }
+    .divider { height:1px; background:#1f2937; margin: 12px 0; }
+    footer { text-align:center; padding:16px; color:var(--muted); }
+    .label { display:inline-block; min-width:100px; color:var(--muted); }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Massive Toxicity Test Page <span class="pill ok">Local-only</span> <span class="pill bad">Contains abusive language for testing</span></h1>
+    <div class="muted">This page intentionally mixes non-toxic and toxic phrases (no identity-based hate). Use your extension to test scanning, highlighting, and performance.</div>
+    <div class="controls">
+      <button id="fill-1k">Generate ~1,000 paragraphs</button>
+      <button id="fill-5k">Generate ~5,000 paragraphs</button>
+      <button id="fill-10k">Generate ~10,000 paragraphs</button>
+      <button id="clear">Clear content</button>
+    </div>
+  </header>
+
+  <main class="grid">
+    <section id="seed" class="card">
+      <div class="section-title">Seed Examples</div>
+      <p class="para">Hello friend, how are you today? I brought fresh coffee for everyone.</p>
+      <p class="para">You are such an idiot. This is absolutely dumb and trash.</p>
+      <p class="para">Let’s stay constructive and keep the discussion on the topic.</p>
+      <p class="para">I hate you, you annoying loser. Just stop talking.</p>
+      <p class="para">Thanks for the detailed explanation — that really helped.</p>
+      <p class="para">What a stupid idea. Your work is garbage and you should be ashamed.</p>
+      <div class="divider"></div>
+      <div class="muted">Note: This test set avoids identity-based hate speech. It includes insults, obscene language, and threats without targeting protected classes.</div>
+    </section>
+
+    <section id="generated" class="card">
+      <div class="section-title">Generated Content</div>
+      <div id="container"></div>
+    </section>
+  </main>
+
+  <footer>
+    Generated content is synthetic and for testing only. Avoid sharing this page publicly.
+  </footer>
+
+  <script>
+    // Non-toxic pool
+    const clean = [
+      "Good morning! Let's have a productive day.",
+      "Please provide the data when you have a moment.",
+      "I appreciate your help and the effort you put in.",
+      "Could you clarify the third paragraph?",
+      "Thanks for the quick turnaround — impressive work!",
+      "Let’s keep the conversation respectful and focused.",
+      "We can disagree and still be professional.",
+      "Here's the documentation link. Let me know if it's helpful.",
+      "Great point. I hadn't considered that perspective.",
+      "We’ll iterate on the draft and refine the details."
+    ];
+
+    // Toxic (no identity-based hate; includes insults, threats, obscenity)
+    const toxic = [
+      "You're an idiot and your argument is trash.",
+      "This is stupid. Only a clown would write that.",
+      "Shut up already — nobody cares.",
+      "I'll punch you if you keep lying like that.",
+      "Stop spamming, you annoying loser.",
+      "Your work is garbage, just give up.",
+      "This entire post is dumb and worthless.",
+      "You're so clueless it's painful to read.",
+      "Go to hell with that nonsense.",
+      "Nobody wants your useless opinion.",
+      "That comment is obscene and disgusting.",
+      "You're pathetic. Grow up.",
+      "Keep it up and you'll regret it.",
+      "Your behavior is toxic and embarrassing.",
+      "This is the worst take I've seen — utterly brainless.",
+      "You're a joke, completely incompetent.",
+      "Get lost. You're wasting everyone's time.",
+      "How can someone be this dense?",
+      "Your logic is trash and your tone is worse.",
+      "This is insulting and you should stop."
+    ];
+
+    // Some obvious keywords to test simple matchers too
+    const keywordy = [
+      "idiot", "stupid", "dumb", "loser", "trash", "garbage", "obscene", "annoying",
+      "hate you", "go to hell", "give up", "clown"
+    ];
+
+    function rand(arr) { return arr[Math.floor(Math.random() * arr.length)]; }
+
+    function buildParagraph(i) {
+      const isToxic = Math.random() < 0.5;
+      const base = isToxic ? toxic : clean;
+      let text = rand(base);
+      // occasionally append a keyword for simpler detectors
+      if (Math.random() < 0.3) {
+        text += " " + rand(keywordy) + ".";
+      }
+      const p = document.createElement("p");
+      p.className = "para";
+      p.textContent = text;
+      return p;
+    }
+
+    function fill(count) {
+      const container = document.getElementById("container");
+      const frag = document.createDocumentFragment();
+      for (let i = 0; i < count; i++) {
+        frag.appendChild(buildParagraph(i));
+      }
+      container.appendChild(frag);
+    }
+
+    document.getElementById("fill-1k").addEventListener("click", () => fill(1000));
+    document.getElementById("fill-5k").addEventListener("click", () => fill(5000));
+    document.getElementById("fill-10k").addEventListener("click", () => fill(10000));
+    document.getElementById("clear").addEventListener("click", () => {
+      document.getElementById("container").textContent = "";
+    });
+
+    // Auto-fill some content on load for quick testing
+    window.addEventListener("DOMContentLoaded", () => fill(500));
+  </script>
+</body>
+</html>

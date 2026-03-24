@@ -1,0 +1,2 @@
+model,threshold,accuracy,precision,recall,f1,tn,fp,fn,tp
+toxic_bert_finetuned,0.58,0.9156626506024096,0.9701492537313433,0.8441558441558441,0.9027777777777778,87,2,12,65

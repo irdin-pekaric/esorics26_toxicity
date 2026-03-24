@@ -1,0 +1,17 @@
+pandas==2.3.3
+scikit-learn==1.7.2
+torch==2.8.0
+transformers==4.57.0
+onnx==1.14.0
+onnxruntime==1.23.1
+onnxruntime-tools==1.11.0
+huggingface-hub==0.35.3
+hf-xet==1.1.10
+safetensors==0.4.0
+accelerate==0.22.0
+openai==1.0.0
+tiktoken==0.4.0
+python-dotenv==1.0.0
+matplotlib==3.10.7
+tqdm==4.65.0
+llama-cpp-python==0.1.50

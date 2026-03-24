@@ -1,0 +1,2156 @@
+id,message,true_label,true_label_bin,toxicity_label,toxicity_score,pred_bin,is_error
+0,fast come fast,0,0,non_toxic,0.0009196456521749496,0,False
+2,smiteless blue please,0,0,non_toxic,0.04284479469060898,0,False
+3,come,0,0,non_toxic,0.00163163966499269,0,False
+4,no,0,0,non_toxic,0.0029323992785066366,0,False
+5,omfgÃÂ¤,0,0,non_toxic,0.0010099101345986128,0,False
+6,comon,0,0,non_toxic,0.004056799225509167,0,False
+7,we have low elo?,0,0,non_toxic,0.006358103360980749,0,False
+8,gj,0,0,non_toxic,0.0018499610014259815,0,False
+9,wow,0,0,non_toxic,0.0020392402075231075,0,False
+10,lol,0,0,non_toxic,0.004308551084250212,0,False
+11,gj,0,0,non_toxic,0.0018499610014259815,0,False
+12,gj,0,0,non_toxic,0.0018499610014259815,0,False
+13,wow nothing,0,0,non_toxic,0.004472437780350447,0,False
+14,i have low elo?,0,0,non_toxic,0.005761262495070696,0,False
+15,yre stupod,1,1,non_toxic,0.01515644509345293,0,True
+16,afk leona? :D,0,0,non_toxic,0.0012336446670815349,0,False
+17,why did you do that?,0,0,non_toxic,0.0013519698986783624,0,False
+18,we said no you still went in,0,0,non_toxic,0.0015078800497576594,0,False
+20,you knew nobody followed,0,0,non_toxic,0.002498184097930789,0,False
+21,no flash no ignite,0,0,non_toxic,0.004590489901602268,0,False
+22,no,0,0,non_toxic,0.0029323992785066366,0,False
+23,fuking noob thts the way to get fk,1,1,non_toxic,0.056902967393398285,0,True
+24,and no flash leona,0,0,non_toxic,0.0014715223805978894,0,False
+25,easily,0,0,non_toxic,0.0011850958690047264,0,False
+26,y,0,0,non_toxic,0.004600495100021362,0,False
+27,4 vs 2,0,0,non_toxic,0.00115356280002743,0,False
+28,no afk,0,0,non_toxic,0.0027698602061718702,0,False
+29,ty,0,0,non_toxic,0.003083761315792799,0,False
+30,corki no flash,0,0,non_toxic,0.005691069178283215,0,False
+31,ww no flash,0,0,non_toxic,0.030085057020187378,0,False
+32,gj tresh,0,0,non_toxic,0.004028982482850552,0,False
+33,u 2,0,0,non_toxic,0.0015968106454238296,0,False
+34,farm till 6 ww,0,0,non_toxic,0.005497269332408905,0,False
+35,seriously,0,0,non_toxic,0.001498015713877976,0,False
+36,k,0,0,non_toxic,0.0029873403254896402,0,False
+37,seriusly stop failing u have been grab 5 times,0,0,non_toxic,0.01149835716933012,0,False
+39,WW ????????????,0,0,non_toxic,0.0018697092309594154,0,False
+40,lol,0,0,non_toxic,0.0043085492216050625,0,False
+41,gj,0,0,non_toxic,0.0018499610014259815,0,False
+42,you gave him 2 kills....,0,0,non_toxic,0.11532231420278549,0,False
+43,fuk,1,1,non_toxic,0.01310046762228012,0,True
+44,idiot,1,1,toxic,0.956641674041748,1,False
+45,thx:),0,0,non_toxic,0.0012891305377706885,0,False
+46,idiot shut up noob,1,1,toxic,0.9608789682388306,1,False
+48,need blue,0,0,non_toxic,0.0010441382182762027,0,False
+49,be nice please,0,0,non_toxic,0.0017346901586279273,0,False
+50,blue pls,0,0,non_toxic,0.0014504629652947187,0,False
+51,I take blue,0,0,non_toxic,0.0011438814690336585,0,False
+52,...,0,0,non_toxic,0.0014519901014864445,0,False
+53,omw,0,0,non_toxic,0.0025922043714672327,0,False
+54,ok take was asking in fact ^^,0,0,non_toxic,0.011117775924503803,0,False
+57,sry,0,0,non_toxic,0.0025639128871262074,0,False
+58,np,0,0,non_toxic,0.0009820051491260529,0,False
+59,omg,0,0,non_toxic,0.002510456833988428,0,False
+60,stop,0,0,non_toxic,0.00790204107761383,0,False
+61,no,0,0,non_toxic,0.0029323964845389128,0,False
+62,sry^^,0,0,non_toxic,0.004786880221217871,0,False
+63,wtf?,0,0,non_toxic,0.11447715759277344,0,False
+64,hmm idk...,0,0,non_toxic,0.001641816576011479,0,False
+66,coming with ulti,0,0,non_toxic,0.0015668695559725165,0,False
+67,naut top,0,0,non_toxic,0.009958970360457897,0,False
+68,warded?,0,0,non_toxic,0.0016227816231548786,0,False
+69,gj,0,0,non_toxic,0.0018499610014259815,0,False
+70,stop die omg,1,1,non_toxic,0.036308903247117996,0,True
+72,dont waste mana,0,0,non_toxic,0.004519199952483177,0,False
+73,gj,0,0,non_toxic,0.0018499610014259815,0,False
+74,blue again pls,0,0,non_toxic,0.0012641509529203176,0,False
+75,care top,0,0,non_toxic,0.004410488065332174,0,False
+76,OMG STOP TOP report top and jungler pls,0,0,non_toxic,0.002120769349858165,0,False
+79,shut the fuck up,1,1,toxic,0.9462753534317017,1,False
+80,look tard,1,1,non_toxic,0.004503593314439058,0,True
+81,lol,0,0,non_toxic,0.0043085492216050625,0,False
+82,u and top ruined my game,1,1,non_toxic,0.001020854339003563,0,True
+83,I dont care,0,0,non_toxic,0.0023039740044623613,0,False
+84,i get aegis ?,0,0,non_toxic,0.0011915649520233274,0,False
+85,i get it,0,0,non_toxic,0.0014663815964013338,0,False
+86,0 blues,0,0,non_toxic,0.0031966024544090033,0,False
+87,i dont see your name on it,0,0,non_toxic,0.002846703864634037,0,False
+88,sure,0,0,non_toxic,0.0011028910521417856,0,False
+89,top wards?,0,0,non_toxic,0.0008947745664045215,0,False
+90,ss bort dat team,0,0,non_toxic,0.0014379163039848208,0,False
+92,gj,0,0,non_toxic,0.0018499610014259815,0,False
+93,leona you are doing so well,0,0,non_toxic,0.0023055628407746553,0,False
+95,need kills,0,0,non_toxic,0.13520480692386627,0,False
+96,leona nothing,0,0,non_toxic,0.0016238945536315441,0,False
+97,i am so sprry 'sorry,0,0,non_toxic,0.0025602681562304497,0,False
+99,corki 88cs and me ---,0,0,non_toxic,0.007854778319597244,0,False
+101,take red,0,0,non_toxic,0.002927568508312106,0,False
+102,lol xD,0,0,non_toxic,0.008957761339843273,0,False
+103,sry:D,0,0,non_toxic,0.0019238546956330538,0,False
+104,oom care,0,0,non_toxic,0.001569960848428309,0,False
+106,yeah,0,0,non_toxic,0.0019474697764962912,0,False
+107,i push bot care dont engage,0,0,non_toxic,0.0036900171544402838,0,False
+110,first corki who has not stareted trinity in history of lol,0,0,non_toxic,0.0016449552495032549,0,False
+112,bot and mid worst gg you guys have high elo?,0,0,non_toxic,0.13344497978687286,0,False
+115,are u???,0,0,non_toxic,0.0013863390777260065,0,False
+116,got boosted I guess you guys,0,0,non_toxic,0.0073560248129069805,0,False
+118,here comes the u guys,0,0,non_toxic,0.0019441923359408975,0,False
+119,ty,0,0,non_toxic,0.003083755262196064,0,False
+120,np,0,0,non_toxic,0.0009820051491260529,0,False
+121,you* school is good for you,0,0,non_toxic,0.0064218901097774506,0,False
+123,im 24 licensed so shut up,1,1,non_toxic,0.0017700518947094679,0,True
+126,doesen't look like it,0,0,non_toxic,0.001705080270767212,0,False
+127,do u play at bronze?*,0,0,non_toxic,0.004903108812868595,0,False
+128,all,0,0,non_toxic,0.0032677738927304745,0,False
+129,corki,0,0,non_toxic,0.005379087757319212,0,False
+130,silver,0,0,non_toxic,0.003431847086176276,0,False
+131,you lost it,0,0,non_toxic,0.00370316905900836,0,False
+132,come on,0,0,non_toxic,0.002347049303352833,0,False
+133,you do 0 dmg,0,0,non_toxic,0.008340248838067055,0,False
+134,serious?,0,0,non_toxic,0.001106562907807529,0,False
+135,and die in a sec,0,0,non_toxic,0.017694029957056046,0,False
+136,Ã¯Â¿Â½lol?,0,0,non_toxic,0.0013013719581067562,0,False
+137,is a game yes,0,0,non_toxic,0.0010559522779658437,0,False
+138,maybe cause im nit feeded its lost idiot team,1,1,toxic,0.961336612701416,1,False
+140,brcause of you,0,0,non_toxic,0.004009135998785496,0,False
+141,ye sure ahri 1-5 leona 1.6 02.Jun,0,0,non_toxic,0.000919656187761575,0,False
+145,I'm the only one with good stats,0,0,non_toxic,0.0010295645333826542,0,False
+146,i got 2.6 because of u nppb,1,1,non_toxic,0.0010303270537406206,0,True
+147,u sukc,1,1,non_toxic,0.004192645195871592,0,True
+148,and the only one who can play,0,0,non_toxic,0.0016322402516379952,0,False
+149,corki,0,0,non_toxic,0.005379087757319212,0,False
+150,what a shit of adc,1,1,toxic,0.9227212071418762,1,False
+151,LEONA U DIED AT START,1,1,non_toxic,0.0008398964419029653,0,True
+152,cant even build,0,0,non_toxic,0.0010335373226553202,0,False
+153,corki suck and your skin,1,1,toxic,0.955167293548584,1,False
+155,then u failed bot again,1,1,non_toxic,0.0027558067813515663,0,True
+156,refund,0,0,non_toxic,0.0010039269691333175,0,False
+158,lol u kid,0,0,non_toxic,0.009798077866435051,0,False
+159,HAHAHA corki suck???,1,1,toxic,0.9378777146339417,1,False
+161,you do,0,0,non_toxic,0.005023194942623377,0,False
+162,u must seriously serach help,0,0,non_toxic,0.0025800671428442,0,False
+163,force baron,0,0,non_toxic,0.0026922172401100397,0,False
+164,not the champ but u suck,1,1,toxic,0.8610976338386536,1,False
+167,wow,0,0,non_toxic,0.0020392402075231075,0,False
+168,balls,0,0,toxic,0.9489799737930298,1,True
+169,no,0,0,non_toxic,0.0029323992785066366,0,False
+170,team play ok?,0,0,non_toxic,0.0009398816036991775,0,False
+171,atrooz u are so good,0,0,non_toxic,0.0012450620997697115,0,False
+172,at least shut up corki,1,1,non_toxic,0.05763053148984909,0,True
+173,no need to force I think ^^,0,0,non_toxic,0.005471826996654272,0,False
+174,force win...,0,0,non_toxic,0.0009620374767109752,0,False
+175,and learn to play,1,1,non_toxic,0.0012152050621807575,0,True
+176,y,0,0,non_toxic,0.004600495100021362,0,False
+177,Aatrox*,0,0,non_toxic,0.04108479991555214,0,False
+178,and learn to build,1,1,non_toxic,0.0010470987763255835,0,True
+179,u know you got a report on your back?,0,0,non_toxic,0.0016695830272510648,0,False
+180,for what? tell me tell me aatrox,0,0,non_toxic,0.00334614934399724,0,False
+183,flaming,0,0,non_toxic,0.4634415805339813,0,False
+184,flame,0,0,non_toxic,0.005320947617292404,0,False
+185,oh shut up,1,1,non_toxic,0.42941731214523315,0,True
+186,feed,0,0,non_toxic,0.10753531754016876,0,False
+187,croki,0,0,non_toxic,0.0037408098578453064,0,False
+188,nothing will happend anyway,0,0,non_toxic,0.004603334236890078,0,False
+189,keep on thinking that,0,0,non_toxic,0.0013278181431815028,0,False
+190,thats what they all say bg,0,0,non_toxic,0.007582808844745159,0,False
+192,you'll stay in silver corki,0,0,non_toxic,0.01248923595994711,0,False
+193,gg,0,0,non_toxic,0.0022958621848374605,0,False
+194,gg,0,0,non_toxic,0.0022958621848374605,0,False
+195,gg,0,0,non_toxic,0.0022958621848374605,0,False
+196,gg,0,0,non_toxic,0.002295859856531024,0,False
+197,bg,1,1,non_toxic,0.0032671852968633175,0,True
+198,bacause of u,0,0,non_toxic,0.0013338577700778842,0,False
+2081,gl hf,0,0,non_toxic,0.0026036060880869627,0,False
+2082,report leblanc for instalock thank u,0,0,non_toxic,0.0010478032054379582,0,False
+2083,and report leblanc for trolling thx ^^,0,0,non_toxic,0.052819959819316864,0,False
+2084,report leblanc,0,0,non_toxic,0.0012144221691414714,0,False
+2085,report akali for instalock volibear,0,0,non_toxic,0.001070404308848083,0,False
+2086,report i have got a big ***,0,0,non_toxic,0.27205049991607666,0,False
+2088,WTF,0,0,toxic,0.9340910315513611,1,True
+2089,noob,1,1,non_toxic,0.005769256968051195,0,True
+2090,sory,0,0,non_toxic,0.002948833629488945,0,False
+2091,np,0,0,non_toxic,0.0009820051491260529,0,False
+2092,let me farm,0,0,non_toxic,0.0031739077530801296,0,False
+2093,lb uselss,0,0,non_toxic,0.00318375276401639,0,False
+2094,LET ME FARM,0,0,non_toxic,0.0031739077530801296,0,False
+2095,no,0,0,non_toxic,0.0029323964845389128,0,False
+2096,help mid please,0,0,non_toxic,0.0017228452488780022,0,False
+2097,NO. hahah,0,0,non_toxic,0.002096286742016673,0,False
+2099,haha u leave lane uselless man,0,0,non_toxic,0.0024557961151003838,0,False
+2100,tg,0,0,non_toxic,0.002508007688447833,0,False
+2101,noob,1,1,non_toxic,0.005769256968051195,0,True
+2102,fk you,1,1,non_toxic,0.019114244729280472,0,True
+2103,azzazaz,0,0,non_toxic,0.0025889913085848093,0,False
+2104,omg,0,0,non_toxic,0.002510456833988428,0,False
+2105,lol,0,0,non_toxic,0.0043085492216050625,0,False
+2106,talon please stop,0,0,non_toxic,0.013271725736558437,0,False
+2108,sam apelle stp,0,0,non_toxic,0.003764460328966379,0,False
+2110,noob report fizz plz feding,1,1,non_toxic,0.0023615395184606314,0,True
+2112,did you see you talon firend premade ?,0,0,non_toxic,0.003096170024946332,0,False
+2113,HAHAHHA,0,0,non_toxic,0.0012048858916386962,0,False
+2114,ahhhhhhhh fk this game gj trynda now push tower,0,0,non_toxic,0.002561465371400118,0,False
+2117,dat flesh diana,0,0,non_toxic,0.13183088600635529,0,False
+2118,:(,0,0,non_toxic,0.0011832751333713531,0,False
+2119,go toplane thank u,0,0,non_toxic,0.001293125911615789,0,False
+2121,go no Q sorry noob fizz report plz,1,1,non_toxic,0.0031662513501942158,0,True
+2124,FK YOU look at your premade score,1,1,non_toxic,0.004556208848953247,0,True
+2126,wat dat feeeeeed ? OMG worth,0,0,non_toxic,0.0022479766048491,0,False
+2128,gj 3 vs 1 u're very good xDDDDDD,0,0,non_toxic,0.001407425501383841,0,False
+2130,youre 9/ 1 ... U_u,0,0,non_toxic,0.001390990219078958,0,False
+2131,u just don't play good,1,1,non_toxic,0.0030082562007009983,0,True
+2132,3 vs 1 noob pffff,1,1,non_toxic,0.0017461393726989627,0,True
+2133,grosse pute,0,0,non_toxic,0.041104014962911606,0,False
+2134,gj we win,0,0,non_toxic,0.00104405521415174,0,False
+2136,HAHAHA,0,0,non_toxic,0.0011923310812562704,0,False
+2137,GGGGGG,0,0,non_toxic,0.002813752507790923,0,False
+2138,gg wp fru,0,0,non_toxic,0.010672878473997116,0,False
+199,come bot ty invade?,0,0,non_toxic,0.003272206522524357,0,False
+201,Invade?,0,0,non_toxic,0.0015024407766759396,0,False
+202,yes,0,0,non_toxic,0.0013870126567780972,0,False
+203,oh sorry,0,0,non_toxic,0.002119733253493905,0,False
+204,cant we have afk!,0,0,non_toxic,0.0018418659456074238,0,False
+206,yes we can,0,0,non_toxic,0.0012245791731402278,0,False
+207,syndra help me,0,0,non_toxic,0.0021648842375725508,0,False
+208,he is not afk,0,0,non_toxic,0.009867586195468903,0,False
+209,teemo too,0,0,non_toxic,0.0018080273875966668,0,False
+210,lets not invade.. :),0,0,non_toxic,0.001792914466932416,0,False
+211,smite now because cooldown,0,0,non_toxic,0.002328629605472088,0,False
+212,come let's invade,0,0,non_toxic,0.0037453423719853163,0,False
+214,lee,0,0,non_toxic,0.0031816167756915092,0,False
+215,we will win it easy,0,0,non_toxic,0.0008903717389330268,0,False
+217,wtf?!,0,0,non_toxic,0.05504962056875229,0,False
+218,:D,0,0,non_toxic,0.0024251416325569153,0,False
+219,gj all,0,0,non_toxic,0.0022635068744421005,0,False
+220,are you shit blind?,1,1,toxic,0.9536470174789429,1,False
+221,gj,0,0,non_toxic,0.0018499610014259815,0,False
+222,tf blue,0,0,non_toxic,0.0012431956129148602,0,False
+223,i need this blue,0,0,non_toxic,0.0016152982134371996,0,False
+224,early gank bot,0,0,non_toxic,0.0011602737940847874,0,False
+225,tf,0,0,non_toxic,0.00223557255230844,0,False
+226,WHAT omfg so lucky come on.... i'm sorry sivir don't know what is going on today,0,0,non_toxic,0.0030371767934411764,0,False
+232,np :|,0,0,non_toxic,0.0009299731464125216,0,False
+233,"could we get an gank bot please? we're behind, and i' i'm failing",0,0,non_toxic,0.004622964188456535,0,False
+236,ward,0,0,non_toxic,0.001783781684935093,0,False
+237,honestly? we're fucked,0,0,toxic,0.673882246017456,1,True
+239,passive just def,0,0,non_toxic,0.024410730227828026,0,False
+241,guess so,0,0,non_toxic,0.0018699425272643566,0,False
+242,teemo stop,0,0,non_toxic,0.007709730416536331,0,False
+243,GANGS,1,1,non_toxic,0.045870356261730194,0,True
+244,teemo stop feed,0,0,non_toxic,0.36346328258514404,0,False
+245,no idiots i am behind,1,1,toxic,0.9497593641281128,1,False
+247,gfuys for real -?,0,0,non_toxic,0.007009541615843773,0,False
+248,flash off put ward,0,0,non_toxic,0.015426377765834332,0,False
+250,guys stay focuse.d,0,0,non_toxic,0.0012249500723555684,0,False
+251,stop feed,0,0,toxic,0.5043818950653076,1,True
+252,gj mid,0,0,non_toxic,0.0016498363111168146,0,False
+253,thx,0,0,non_toxic,0.004895342048257589,0,False
+254,a little bit lucky,0,0,non_toxic,0.013444391079246998,0,False
+255,so bad,0,0,non_toxic,0.0039537809789180756,0,False
+256,he is feeded because teemo is a noob,1,1,non_toxic,0.3625856339931488,0,True
+258,yes but she have failed,0,0,non_toxic,0.0028386942576617002,0,False
+259,0/6 wtf?!??!?!?,0,0,non_toxic,0.01784021407365799,0,False
+261,dont fight with him stay at tower teemo,0,0,non_toxic,0.004041676875203848,0,False
+262,wtf teemo?!???! jill him noob,1,1,non_toxic,0.03139635920524597,0,True
+264,had to get her so much worth aswell,0,0,non_toxic,0.0032560720574110746,0,False
+266,the worst teemo i have ever seen,1,1,non_toxic,0.0994381234049797,0,True
+267,going sunfire first then aegis just b,0,0,non_toxic,0.0015685494290664792,0,False
+270,i need help with lee i loose to him,0,0,non_toxic,0.003490840783342719,0,False
+272,got ult,0,0,non_toxic,0.0061801727861166,0,False
+273,teemo wtf go top,0,0,non_toxic,0.4661487638950348,0,False
+275,tha fuck the wolfes killed me,1,1,toxic,0.9624426960945129,1,False
+276,teemo rly?,0,0,non_toxic,0.0011598571436479688,0,False
+277,teemo what you want there?,0,0,non_toxic,0.0015936626587063074,0,False
+278,you go to me that he kill me:... reportedf go top,0,0,non_toxic,0.22902636229991913,0,False
+281,i roam.,0,0,non_toxic,0.0017623923486098647,0,False
+282,ward,0,0,non_toxic,0.001783781684935093,0,False
+283,"lol,",0,0,non_toxic,0.006296116858720779,0,False
+284,you fucktard,1,1,toxic,0.9600078463554382,1,False
+285,lee is so feed do u know for what teemo?,0,0,non_toxic,0.01809130795300007,0,False
+287,gj,0,0,non_toxic,0.0018499610014259815,0,False
+288,well he is better player than i am it makes sense,0,0,non_toxic,0.002188262762501836,0,False
+290,push,0,0,non_toxic,0.00227320846170187,0,False
+291,that team rly push this tower,0,0,non_toxic,0.0010942427907139063,0,False
+294,how yozu can,0,0,non_toxic,0.0013798598665744066,0,False
+295,!!! why?,0,0,non_toxic,0.0008164027240127325,0,False
+297,cant grap fk bug tresh wards wtf,1,1,toxic,0.6212852597236633,1,False
+300,how my team can stay ---,0,0,non_toxic,0.001021122676320374,0,False
+301,wtf?!??!,0,0,non_toxic,0.008850458078086376,0,False
+302,stop fight retards,1,1,non_toxic,0.32523858547210693,0,True
+303,BOT????,0,0,non_toxic,0.0013605898711830378,0,False
+304,rly,0,0,non_toxic,0.002745947567746043,0,False
+305,WANT U HELP TEAM,0,0,non_toxic,0.001109207747504115,0,False
+306,and teemo how you fucktard got fed ?,1,1,toxic,0.9499512314796448,1,False
+307,!!!!,0,0,non_toxic,0.0008342404034920037,0,False
+308,STOP!,0,0,non_toxic,0.0019003953784704208,0,False
+309,sorry sivir,0,0,non_toxic,0.0013720106799155474,0,False
+310,np,0,0,non_toxic,0.0009820051491260529,0,False
+311,TRISTANA WHAR ARE U DOING IDIOT?!,1,1,toxic,0.9623771905899048,1,False
+312,i activated before you used bounce,0,0,non_toxic,0.0014094131765887141,0,False
+313,TEEMO HELP ME,0,0,non_toxic,0.001996300183236599,0,False
+314,tf so fed bot,0,0,non_toxic,0.004016675055027008,0,False
+316,so bad xin,1,1,non_toxic,0.00628287810832262,0,True
+317,stop push lane,0,0,non_toxic,0.0019158279756084085,0,False
+318,if fed you should babysit -.-,0,0,non_toxic,0.02424471266567707,0,False
+319,and feed,0,0,non_toxic,0.11766557395458221,0,False
+320,OR PUISH MID,0,0,non_toxic,0.009047874249517918,0,False
+321,i need help to LOL,0,0,non_toxic,0.0019577303901314735,0,False
+323,not alone,0,0,non_toxic,0.0029897671192884445,0,False
+324,re gj xin,0,0,non_toxic,0.003965745214372873,0,False
+326,tresh ward our jungle,0,0,non_toxic,0.027112774550914764,0,False
+327,SYNDRA HELP ME,0,0,non_toxic,0.0021648842375725508,0,False
+328,omg this fking team go and del game,1,1,non_toxic,0.0012855319073423743,0,True
+331,gj all,0,0,non_toxic,0.0022635068744421005,0,False
+332,gj lee . oyu mena,0,0,non_toxic,0.0030203319620341063,0,False
+333,SYNDRA SHUT UP 5/6,1,1,non_toxic,0.019527532160282135,0,True
+334,yes I had 3 0,0,0,non_toxic,0.0010695898672565818,0,False
+335,idd gj you,0,0,non_toxic,0.029384057968854904,0,False
+336,than lee sin killed me 2,0,0,non_toxic,0.045247018337249756,0,False
+337,"carried whole team but in this fight, all did good",0,0,non_toxic,0.001268265419639647,0,False
+339,yes,0,0,non_toxic,0.0013870126567780972,0,False
+340,overfeeded,0,0,non_toxic,0.002567949704825878,0,False
+341,n1,0,0,non_toxic,0.0009014759561978281,0,False
+342,allone vs 3 gg,0,0,non_toxic,0.0019455862930044532,0,False
+343,we need to cover only tower to win this game and farm,0,0,non_toxic,0.0010321317240595818,0,False
+346,TRISTANA!!!!!! HELP MID,0,0,non_toxic,0.0008388070855289698,0,False
+348,omg nice jungler,0,0,non_toxic,0.00146610161755234,0,False
+350,YES U NOOB U DONR KNOW THAT FIDD NEED BLUE?,1,1,non_toxic,0.001367122633382678,0,True
+351,so overextend,0,0,non_toxic,0.002945404965430498,0,False
+353,SYNDRA HELP NOOB,1,1,non_toxic,0.002624134998768568,0,True
+354,really,0,0,non_toxic,0.0015636166790500283,0,False
+355,:|,0,0,non_toxic,0.0016421354375779629,0,False
+356,that chase -.- gg lee -.-,0,0,non_toxic,0.002656326862052083,0,False
+358,go together TRESH WARD BARON allmid,0,0,non_toxic,0.008220435120165348,0,False
+360,SURRENDER,0,0,non_toxic,0.001082372386008501,0,False
+361,no chance,0,0,non_toxic,0.002730673411861062,0,False
+362,gj,0,0,non_toxic,0.0018499610014259815,0,False
+363,baronm,0,0,non_toxic,0.0011065207654610276,0,False
+364,gg wp,0,0,non_toxic,0.010278920643031597,0,False
+365,yasuo i picked ali 4 u :D,0,0,non_toxic,0.005506657063961029,0,False
+367,"knockups ftw? :#, ty",0,0,non_toxic,0.01458614133298397,0,False
+369,^^ :*,0,0,non_toxic,0.028605274856090546,0,False
+371,:3 ty*,0,0,non_toxic,0.004152119159698486,0,False
+372,i take first,0,0,non_toxic,0.0012368778698146343,0,False
+373,akali bot is an catastrophe 2 weak early,0,0,non_toxic,0.03512417897582054,0,False
+375,damn,0,0,toxic,0.9573490023612976,1,True
+376,lol that luck wtf team?=????,0,0,non_toxic,0.020996052771806717,0,False
+379,ULT :(,0,0,non_toxic,0.002530056983232498,0,False
+381,"sorry, thought i was lv 5",0,0,non_toxic,0.001144099049270153,0,False
+382,report maokai afk,0,0,non_toxic,0.0011574103264138103,0,False
+383,gg wp,0,0,non_toxic,0.010278920643031597,0,False
+384,LOL,0,0,non_toxic,0.004308551084250212,0,False
+385,bg mb,0,0,non_toxic,0.0013803986366838217,0,False
+386,AHAH  5 vs 4,0,0,non_toxic,0.0010426273802295327,0,False
+387,we are 4,0,0,non_toxic,0.0029772992711514235,0,False
+388,gg :D,0,0,non_toxic,0.0026063292752951384,0,False
+390,let them capture !!!!!! gg,0,0,non_toxic,0.0024771764874458313,0,False
+393,BG,0,0,non_toxic,0.003267183667048812,0,False
+394,well,0,0,non_toxic,0.0011409672442823648,0,False
+395,do i buy relic shield or acient coin ?,0,0,non_toxic,0.0010065746027976274,0,False
+396,relic better.,0,0,non_toxic,0.003042202442884445,0,False
+398,y but they nerf it,0,0,non_toxic,0.0013367993524298072,0,False
+399,nerfed tho isnt it?,0,0,non_toxic,0.0016355615807697177,0,False
+401,"pref the coin, but nvm",0,0,non_toxic,0.000799109460785985,0,False
+402,only for melee,0,0,non_toxic,0.003306533908471465,0,False
+403,ok,0,0,non_toxic,0.006915001664310694,0,False
+404,gl hf,0,0,non_toxic,0.002603608649224043,0,False
+405,"""melee basic atacks""",0,0,non_toxic,0.002355486387386918,0,False
+406,exited to see this new support role :D,0,0,non_toxic,0.0012976848520338535,0,False
+407,yes but if annie kills minion it stil gives gold,0,0,non_toxic,0.006073410622775555,0,False
+408,Kha,0,0,non_toxic,0.002678885357454419,0,False
+409,ok,0,0,non_toxic,0.006915001664310694,0,False
+410,U were gold in before preseason 4?,0,0,non_toxic,0.0009028809727169573,0,False
+411,so shame we didt start relic,0,0,non_toxic,0.006701821926981211,0,False
+412,missclick sry,0,0,non_toxic,0.004233997315168381,0,False
+414,relic?,0,0,non_toxic,0.0014237528666853905,0,False
+415,wtf sorry i dident go dmg i was checking something,0,0,non_toxic,0.07417560368776321,0,False
+416,ward,0,0,non_toxic,0.0017837824998423457,0,False
+417,ok then,0,0,non_toxic,0.0020027547143399715,0,False
+418,ward,0,0,non_toxic,0.0017837824998423457,0,False
+419,Trynda no ignite and no ghost,0,0,non_toxic,0.006356290075927973,0,False
+420,ward it ashe,0,0,non_toxic,0.0014818579657003284,0,False
+421,all lanes pushed..,0,0,non_toxic,0.00087411527056247,0,False
+422,not bot,0,0,non_toxic,0.0029808313120156527,0,False
+423,miss,0,0,non_toxic,0.001383404596708715,0,False
+424,stop it :D,0,0,non_toxic,0.0032839037012308836,0,False
+426,ran out of mana,0,0,non_toxic,0.005977793596684933,0,False
+427,DAMN,0,0,toxic,0.9573490023612976,1,True
+428,gj,0,0,non_toxic,0.0018499610014259815,0,False
+429,wtf im sry dont know what happent there,0,0,toxic,0.5252813100814819,1,True
+432,bot no flash,0,0,non_toxic,0.004982402082532644,0,False
+433,fak i fked our lane...,0,0,non_toxic,0.00377694726921618,0,False
+434,nope im still ahead,0,0,non_toxic,0.0021959601435810328,0,False
+436,ye but what i did damn just usless and idiotc,1,1,toxic,0.9587299227714539,1,False
+438,ward noc,0,0,non_toxic,0.0036155646666884422,0,False
+440,NOT POSSIBLE,0,0,non_toxic,0.0011477562366053462,0,False
+441,gj,0,0,non_toxic,0.0018499610014259815,0,False
+442,u2,0,0,non_toxic,0.011727587319910526,0,False
+443,ok then,0,0,non_toxic,0.0020027526188641787,0,False
+444,ssry,0,0,non_toxic,0.007354190573096275,0,False
+445,wanna b?,0,0,non_toxic,0.0019263183930888772,0,False
+446,lagg not yet,0,0,non_toxic,0.002649725414812565,0,False
+448,2x freekill for jinx and we wasted double kill ^^,0,0,non_toxic,0.09084465354681015,0,False
+451,k,0,0,non_toxic,0.0029873403254896402,0,False
+452,get 6,0,0,non_toxic,0.004686405882239342,0,False
+453,wtf,0,0,toxic,0.9340910315513611,1,True
+454,youre k?,0,0,non_toxic,0.005419515538960695,0,False
+455,lagg :I gonna b,0,0,non_toxic,0.004944961052387953,0,False
+457,w8 for 6 i have exhaust,0,0,non_toxic,0.007490907795727253,0,False
+459,wurf,0,0,non_toxic,0.07709355652332306,0,False
+460,wurf?,0,0,non_toxic,0.004006858915090561,0,False
+461,when,0,0,non_toxic,0.0013948478735983372,0,False
+462,worth ty,0,0,non_toxic,0.007387095130980015,0,False
+464,ward it,0,0,non_toxic,0.0011260176543146372,0,False
+465,i know what it means but no:P,0,0,non_toxic,0.001243659295141697,0,False
+466,go,0,0,non_toxic,0.003624598030000925,0,False
+467,noc ult,0,0,non_toxic,0.005510441958904266,0,False
+468,well sona its not my role to ward that bush xd btw noc will u ever use info from me?,0,0,non_toxic,0.0020175788085907698,0,False
+473,nc move. noc* pls,0,0,non_toxic,0.005066010635346174,0,False
+476,i told u that both of them are w/o flash,0,0,non_toxic,0.0027080043219029903,0,False
+477,i dunno but tour jungler is useless lee 4 times midlane. meanwhile he masturbates in jungl LIKE AFKING REDNECK,1,1,non_toxic,0.06628994643688202,0,True
+482,wtf no ss,0,0,toxic,0.63726806640625,1,True
+483,'she ignited,0,0,non_toxic,0.008137484081089497,0,False
+484,dont care,0,0,non_toxic,0.0044967615976929665,0,False
+485,Report Kha'Shit pls :),0,0,toxic,0.5325978994369507,1,True
+486,why?,0,0,non_toxic,0.0011508238967508078,0,False
+487,:D,0,0,non_toxic,0.0024251416325569153,0,False
+488,"He's flaming, and not calling ss.",0,0,toxic,0.6462289094924927,1,True
+489,For no ss :) No mapawerness^^,0,0,non_toxic,0.005385967902839184,0,False
+490,akali gingitred me,0,0,non_toxic,0.011301561258733273,0,False
+491,she is stupid if she did that,1,1,toxic,0.9623173475265503,1,False
+492,so u know she did,0,0,non_toxic,0.005345136858522892,0,False
+494,time to help bot,0,0,non_toxic,0.004054534714668989,0,False
+495,fun part is... Aka ure  trash and i would fk u anytime^^,1,1,toxic,0.8827418088912964,1,False
+498,im winnin in farm so its ok,0,0,non_toxic,0.0020735037978738546,0,False
+499,cool,0,0,non_toxic,0.003701976500451565,0,False
+500,u re just too blind too se our jungle is fking our game,1,1,non_toxic,0.022207947447896004,0,True
+501,lets do dragon soon,0,0,non_toxic,0.0031098879408091307,0,False
+502,idc anymore,0,0,non_toxic,0.00406491057947278,0,False
+503,????!?!??!?!?!,0,0,non_toxic,0.0008399832295253873,0,False
+504,wtf,0,0,toxic,0.9340910315513611,1,True
+505,?,0,0,non_toxic,0.0011013058247044683,0,False
+506,hahahaahah,0,0,non_toxic,0.001080213813111186,0,False
+507,whats this noc,0,0,non_toxic,0.00789584219455719,0,False
+508,Report noc,0,0,non_toxic,0.0016247720923274755,0,False
+509,hes flameing hes loseing,0,0,non_toxic,0.03592543676495552,0,False
+510,xb,0,0,non_toxic,0.0016167608555406332,0,False
+511,just play on... wtf ^^,0,0,non_toxic,0.39941129088401794,0,False
+512,hahaha trash noc^^ this is smurf^^ u thin k i care? :D,1,1,toxic,0.6564147472381592,1,False
+515,a smurf with --- games jk hahah u are a joke,0,0,non_toxic,0.013450218364596367,0,False
+520,nooo!,0,0,non_toxic,0.00472234794870019,0,False
+521,ok :D,0,0,non_toxic,0.0035265618935227394,0,False
+522,well well lee dive bot,0,0,non_toxic,0.001958925276994705,0,False
+524,thats something new thou,0,0,non_toxic,0.001517278142273426,0,False
+525,fuck blue nvm,0,0,toxic,0.8632059097290039,1,True
+527,sorry,0,0,non_toxic,0.0020529343746602535,0,False
+528,akali xD,0,0,non_toxic,0.00439849216490984,0,False
+529,noc,0,0,non_toxic,0.004110304173082113,0,False
+530,wanted to safe,0,0,non_toxic,0.0013097877381369472,0,False
+531,u had full hp,0,0,non_toxic,0.002539506647735834,0,False
+533,Noc is bad,1,1,non_toxic,0.008487924002110958,0,True
+534,"why backed? -,-",0,0,non_toxic,0.0014934350037947297,0,False
+535,he fked game just realise,1,1,non_toxic,0.01575506664812565,0,True
+537,k,0,0,non_toxic,0.0029873403254896402,0,False
+538,oh shes mad now,0,0,non_toxic,0.007893201895058155,0,False
+539,u are pretty fed And the exhausted made me laugh,1,1,non_toxic,0.009871430695056915,0,True
+541,go ult noc XDS,0,0,non_toxic,0.007474204525351524,0,False
+543,Report atleast Kha for flame: ),0,0,non_toxic,0.0008998437551781535,0,False
+544,JHAHAHAHAH KZ EPIC FAIL,0,0,non_toxic,0.0010105997789651155,0,False
+546,U dont wanna get him,0,0,non_toxic,0.0245162732899189,0,False
+547,moar ulti plz,0,0,non_toxic,0.0012418536935001612,0,False
+548,KZ?,0,0,non_toxic,0.0011441927636042237,0,False
+549,"y ,:D",0,0,non_toxic,0.004761957097798586,0,False
+551,me?^^,0,0,non_toxic,0.013066411949694157,0,False
+552,Y,0,0,non_toxic,0.004600495100021362,0,False
+553,What did i do ?:P,0,0,non_toxic,0.002101219492033124,0,False
+554,e fail,0,0,non_toxic,0.0009992974810302258,0,False
+555,for real,0,0,non_toxic,0.0019413899863138795,0,False
+556,Oh no ^^ Ive givven up,0,0,non_toxic,0.004902145359665155,0,False
+557,tryn just free farm,0,0,non_toxic,0.0024738030042499304,0,False
+558,camp toplane more Ahri please.,0,0,non_toxic,0.0016902696806937456,0,False
+560,we got no1 to stop him,0,0,non_toxic,0.00822550617158413,0,False
+561,xD,0,0,non_toxic,0.0062274569645524025,0,False
+562,ive ganekd twice,0,0,non_toxic,0.002561509143561125,0,False
+563,madtime,0,0,non_toxic,0.005650834180414677,0,False
+564,"And yet, no SS.",0,0,non_toxic,0.002661536680534482,0,False
+565,i ran throuch mid tower dude u saw me,0,0,non_toxic,0.009977059438824654,0,False
+569,nawhh I was figthign Trynda,0,0,non_toxic,0.0024284222163259983,0,False
+572,no u werent trynda was bing b:ing,0,0,non_toxic,0.0045600105077028275,0,False
+575,bing?,0,0,non_toxic,0.001396211446262896,0,False
+576,when i stasrting walking recvalling,0,0,non_toxic,0.0010517877526581287,0,False
+578,that english yo,0,0,non_toxic,0.0013152982573956251,0,False
+579,:D,0,0,non_toxic,0.0024251416325569153,0,False
+580,sick,0,0,toxic,0.5343056321144104,1,True
+581,ok nvm,0,0,non_toxic,0.0011887691216543317,0,False
+582,meÃ¯Â¿Â½Ã¯Â¿Â½ ? ty,0,0,non_toxic,0.0021737907081842422,0,False
+585,truynd help me blue plz tytyt,0,0,non_toxic,0.003223250387236476,0,False
+587,hahaha akali,0,0,non_toxic,0.0012902410235255957,0,False
+588,sup,0,0,non_toxic,0.004158535972237587,0,False
+589,bad^^,0,0,non_toxic,0.04475204646587372,0,False
+590,idc about this game anymore .),0,0,non_toxic,0.0007854410214349627,0,False
+591,i know,0,0,non_toxic,0.00100698322057724,0,False
+592,Go ahead and insult me more,0,0,non_toxic,0.005267309490591288,0,False
+593,u love me :D,0,0,non_toxic,0.006000475026667118,0,False
+595,well akali,0,0,non_toxic,0.0018465988105162978,0,False
+596,So u can get banned.,0,0,non_toxic,0.00145293481182307,0,False
+597,haha akali and noc naabs,1,1,non_toxic,0.004444812424480915,0,True
+599,sadness,0,0,non_toxic,0.0035057347267866135,0,False
+600,ur pick is useless in our sit^^,0,0,toxic,0.6517558693885803,1,True
+601,yeah unsult me,0,0,non_toxic,0.020299239084124565,0,False
+603,noc is sucky,1,1,toxic,0.9178743362426758,1,False
+604,0 fun,0,0,non_toxic,0.00378970755264163,0,False
+605,as fk,1,1,non_toxic,0.0027191953267902136,0,True
+606,insult me,0,0,non_toxic,0.03585568070411682,0,False
+607,^^,0,0,non_toxic,0.028537355363368988,0,False
+608,pls,0,0,non_toxic,0.0044872513972222805,0,False
+609,akali,0,0,non_toxic,0.002904315944761038,0,False
+610,i i actaulyl were ahri id totally let u bang me,0,0,non_toxic,0.11488337069749832,0,False
+611,ure a redneck,1,1,non_toxic,0.20031535625457764,0,True
+612,if i *,0,0,non_toxic,0.02330530807375908,0,False
+613,more,0,0,non_toxic,0.0015244545647874475,0,False
+614,and a blackblood,0,0,toxic,0.9564639925956726,1,True
+615,pls,0,0,non_toxic,0.0044872513972222805,0,False
+616,:D,0,0,non_toxic,0.0024251416325569153,0,False
+617,your dad will rape you,1,1,non_toxic,0.47085294127464294,0,True
+618,PLS MORE,0,0,non_toxic,0.0030892924405634403,0,False
+620,and kill your mum :) i wont get banned anyways ^^,1,1,non_toxic,0.4021018445491791,0,True
+623,MORE,0,0,non_toxic,0.0015244545647874475,0,False
+624,actually* im not retarded for the record,0,0,non_toxic,0.050500497221946716,0,False
+625,is this preseason? anbody doing what he want? flameing? no teamplay? trolling? wow thats 0 fun,0,0,non_toxic,0.005089787300676107,0,False
+626,ups :D,0,0,non_toxic,0.0016897909808903933,0,False
+628,Kha'Zix :,0,0,non_toxic,0.0037063900381326675,0,False
+629,no lol,0,0,non_toxic,0.006233577616512775,0,False
+631,oh,0,0,non_toxic,0.0016052352730184793,0,False
+632,"your dad will fck you, and he will kill your mum, akali"" Wtf is this",1,1,toxic,0.913334846496582,1,False
+634,and you guys calling anything ..,0,0,non_toxic,0.0018707063281908631,0,False
+635,"sick arrow btw 9x akali plz, dad and mom talk isnt acceptable",0,0,non_toxic,0.004028819501399994,0,False
+637,wtf? Trynda said that to em me* I was quoting Trynda I mean Kha,0,0,non_toxic,0.16618730127811432,0,False
+644,Wtf?:s WHAT?!,0,0,non_toxic,0.013898097909986973,0,False
+646,Kha'Zix wrote that to me I swear.,0,0,non_toxic,0.0037662170361727476,0,False
+648,just a lie ^^,0,0,toxic,0.9244720935821533,1,True
+649,wtf:s,0,0,non_toxic,0.2962191104888916,0,False
+650,Wtf? Are u for real,0,0,non_toxic,0.06736093014478683,0,False
+652,are u ?:s,0,0,non_toxic,0.001480173203162849,0,False
+653,U told me,0,0,non_toxic,0.0019161872332915664,0,False
+654,"so if it was a lie, you said it: 0x 9x*",0,0,non_toxic,0.009660184383392334,0,False
+656,WTF I DIDNT SAY IT KHA SAID IT TO ME,0,0,non_toxic,0.06420218199491501,0,False
+659,tribunal will see,0,0,non_toxic,0.001215343363583088,0,False
+660,I can screenshot,0,0,non_toxic,0.0008037147927097976,0,False
+661,bs,0,0,non_toxic,0.0023330405820161104,0,False
+662,I can screenshot,0,0,non_toxic,0.0008037147927097976,0,False
+663,lol all of u came for me,0,0,non_toxic,0.005850479006767273,0,False
+665,screenshoted.,0,0,non_toxic,0.001835975213907659,0,False
+666,meh sry hes still kha lol jsut end,0,0,non_toxic,0.06961986422538757,0,False
+670,"i swear, Ahri..",0,0,non_toxic,0.002691391622647643,0,False
+671,rofl srxy,0,0,non_toxic,0.0095785241574049,0,False
+673,I didnt say it,0,0,non_toxic,0.0013150450540706515,0,False
+674,xD! gj annie,0,0,non_toxic,0.005589611828327179,0,False
+675,I can send u the screenshot after,0,0,non_toxic,0.0008980954880826175,0,False
+676,gj,0,0,non_toxic,0.0018499610014259815,0,False
+677,"#""support""",0,0,non_toxic,0.004330757539719343,0,False
+678,I was quoting wat Kha'Zix wrote to me.,0,0,non_toxic,0.005635000299662352,0,False
+679,we can stil win u won? know*,0,0,non_toxic,0.0029050149023532867,0,False
+681,report noc and akali after game pls,0,0,non_toxic,0.0012976600555703044,0,False
+682,i actaulyl dont care bro i jsut wanna get plat 2,0,0,non_toxic,0.043417803943157196,0,False
+684,can u just stop trolling akali^^,0,0,non_toxic,0.34868595004081726,0,False
+685,wtf,0,0,toxic,0.9340910315513611,1,True
+686,and what am i doing?,0,0,non_toxic,0.0010713704396039248,0,False
+687,ward,0,0,non_toxic,0.001783781684935093,0,False
+688,i have exhaust,0,0,non_toxic,0.00537426583468914,0,False
+689,I'm gonna so report u Ahri,0,0,non_toxic,0.0011109045008197427,0,False
+690,hU?,0,0,non_toxic,0.0014529041945934296,0,False
+691,dont throw,0,0,non_toxic,0.027448996901512146,0,False
+692,jinx still to op imo,0,0,non_toxic,0.0028895807918161154,0,False
+693,i got the vison thing,0,0,non_toxic,0.027203982695937157,0,False
+695,U are provocating.,0,0,non_toxic,0.0015612035058438778,0,False
+696,why tho?,0,0,non_toxic,0.0014102926943451166,0,False
+697,I wasnt the one saying that shiit About any parents. Kha zix was,0,0,non_toxic,0.002252860926091671,0,False
+700,stop type and play-.-,0,0,non_toxic,0.00204591266810894,0,False
+702,And u flame me.,0,0,non_toxic,0.004356774967163801,0,False
+703,wtf is this,0,0,non_toxic,0.4986608326435089,0,False
+704,report that two -.-,0,0,non_toxic,0.00093579146778211,0,False
+705,i cant know tho,0,0,non_toxic,0.0016380115412175655,0,False
+706,yeah Ik But u saw I said Trynda:,0,0,non_toxic,0.0014856954803690314,0,False
+711,"i actually dont like the new, im a apcarry support thing",0,0,non_toxic,0.012623119167983532,0,False
+712,And then i wrote What he said,0,0,non_toxic,0.0013309175847098231,0,False
+714,DIEEE na gg wp :D!,0,0,non_toxic,0.024600515142083168,0,False
+716,gg I WAS TYPING TO KHA! :D UNFAIR HIDDEN TACTICS!,0,0,non_toxic,0.007251101545989513,0,False
+720,Low Ahri Low.,0,0,non_toxic,0.014567059464752674,0,False
+722,bg,0,0,non_toxic,0.0032671852968633175,0,False
+723,bg,0,0,non_toxic,0.0032671852968633175,0,False
+724,pls report Akali flaming me and abusing.,0,0,non_toxic,0.03700155392289162,0,False
+725,ggwp,0,0,non_toxic,0.0016914408188313246,0,False
+726,kha flaming WAT,0,0,toxic,0.878714382648468,1,True
+728,gg,0,0,non_toxic,0.002295859856531024,0,False
+729,WAT,0,0,non_toxic,0.007503269240260124,0,False
+730,gg wp,0,0,non_toxic,0.010278905741870403,0,False
+731,ggwp!,0,0,non_toxic,0.0026061299722641706,0,False
+732,blue pull please smitless,0,0,non_toxic,0.11166971176862717,0,False
+734,ahhah gg noob,1,1,non_toxic,0.0032887328416109085,0,True
+735,report all rengar ty,1,1,non_toxic,0.0020533916540443897,0,True
+736,report rengar ty,1,1,non_toxic,0.0017209254438057542,0,True
+738,oh ye report rengar,1,1,non_toxic,0.0014550290070474148,0,True
+739,report nasus fff,1,1,non_toxic,0.0012145390501245856,0,True
+740,PULL RED PLEASE ty,0,0,non_toxic,0.005391490645706654,0,False
+743,tresh dat skin *_*,0,0,non_toxic,0.010525032877922058,0,False
+744,OMFG TOP,0,0,non_toxic,0.0019526351243257523,0,False
+746,rengar come,0,0,non_toxic,0.003119016531854868,0,False
+747,TOP,0,0,non_toxic,0.002264666836708784,0,False
+748,me no,0,0,non_toxic,0.008256922475993633,0,False
+749,TOP,0,0,non_toxic,0.002264666836708784,0,False
+750,:p,0,0,non_toxic,0.002056841040030122,0,False
+751,i take blue okay..xD,0,0,non_toxic,0.0015695886686444283,0,False
+752,for thresh ^^,0,0,non_toxic,0.012585523538291454,0,False
+753,i would help but ur attitude soz,0,0,non_toxic,0.0015947965439409018,0,False
+755,lagging my attitude? u suck,1,1,toxic,0.9507191777229309,1,False
+759,u say my attitued look u cant exept not getting ur smelly lane u lot no pull me no ganks noob,1,1,non_toxic,0.11906691640615463,0,True
+763,gj,0,0,non_toxic,0.0018499610014259815,0,False
+764,you too,0,0,non_toxic,0.0044733756221830845,0,False
+765,ward pls,0,0,non_toxic,0.003185923909768462,0,False
+767,lagg op,0,0,non_toxic,0.004818591754883528,0,False
+768,sry no mana and life,0,0,non_toxic,0.002381695667281747,0,False
+769,lucky lee xD,0,0,non_toxic,0.01009688526391983,0,False
+770,xD  How you can jump 2 times? lol,0,0,non_toxic,0.0037173402961343527,0,False
+771,yaya 2 jungle op,0,0,non_toxic,0.005441664252430201,0,False
+772,bushes?,0,0,non_toxic,0.001116332714445889,0,False
+773,end this game 9x rengar,0,0,non_toxic,0.0014258865267038345,0,False
+774,report my team ty no communication nor help report top ty FU NOOBS ALL U SUCK TY KENNEN go,1,1,non_toxic,0.1847856491804123,0,True
+779,ur reported lmao,0,0,non_toxic,0.0010078720515593886,0,False
+781,lol lagg and retard team,1,1,non_toxic,0.04565763100981712,0,True
+782,veigar,0,0,non_toxic,0.0010667620226740837,0,False
+783,omg,0,0,non_toxic,0.002510456833988428,0,False
+785,2 jungle is bad,0,0,non_toxic,0.025498250499367714,0,False
+786,we dont want bot with instalock lucian,0,0,non_toxic,0.003970193210989237,0,False
+787,fml,0,0,non_toxic,0.0011634289985522628,0,False
+788,ahh ll kk ty,0,0,non_toxic,0.004536857362836599,0,False
+791,fking useless nasus,1,1,toxic,0.9336141347885132,1,False
+792,first time kha and i get stupid team my luck,0,0,toxic,0.959111213684082,1,True
+793,ss bot,0,0,non_toxic,0.016586270183324814,0,False
+794,aahahaha,0,0,non_toxic,0.0009956855792552233,0,False
+795,gj^^,0,0,non_toxic,0.017199650406837463,0,False
+796,lol i give up,0,0,non_toxic,0.004102311562746763,0,False
+797,NO,0,0,non_toxic,0.0029323964845389128,0,False
+798,no pull start no help in jungle,0,0,non_toxic,0.006131570786237717,0,False
+800,u too,0,0,non_toxic,0.003498399630188942,0,False
+801,because they invaded!,0,0,non_toxic,0.002971193753182888,0,False
+802,take mid pls lee ward drake,0,0,non_toxic,0.005272645503282547,0,False
+804,AND I ASKED FOR HELP RED MORON,1,1,toxic,0.9544357061386108,1,False
+805,AND I COUDLNT BITCH,1,1,toxic,0.9463788270950317,1,False
+807,WHY THE FUK NOT,1,1,non_toxic,0.005605218466371298,0,True
+808,ahahaha usles rengar,0,0,non_toxic,0.00447613513097167,0,False
+809,0/3 nasus shut up,0,0,non_toxic,0.011579982005059719,0,False
+811,LITTLE NOOB NOT EVEN ONE Q,1,1,non_toxic,0.003607264021411538,0,True
+812,care top,0,0,non_toxic,0.004410488065332174,0,False
+813,ks,0,0,non_toxic,0.0034073051065206528,0,False
+814,first blue in game gg,0,0,non_toxic,0.0008464668644592166,0,False
+815,WWWWOOOOOOOWWWW GG RENGAR WE CAN'T WIN WITHOUT YOU,1,1,non_toxic,0.005947205703705549,0,True
+817,lagg,0,0,non_toxic,0.004915223456919193,0,False
+818,its true dumb,0,0,toxic,0.9517422914505005,1,True
+820,lol lagg,0,0,non_toxic,0.0076066432520747185,0,False
+821,0 damage for all gg,0,0,non_toxic,0.0017448199214413762,0,False
+823,report rengar for troll pick and report nasus for feed TY,1,1,non_toxic,0.04965551942586899,0,True
+825,ahahah ty,0,0,non_toxic,0.004025115165859461,0,False
+826,nasus in double lane is useless mate l2p and after speak,0,0,non_toxic,0.088436558842659,0,False
+829,and kaz not reported?,0,0,non_toxic,0.0009762318804860115,0,False
+830,0/3 kaz,0,0,non_toxic,0.0008675080025568604,0,False
+831,i dont give a shit a jungler without a pul is ulsess,1,1,toxic,0.9466541409492493,1,False
+832,its not,0,0,non_toxic,0.001798042212612927,0,False
+833,ss,0,0,non_toxic,0.004126495216041803,0,False
+834,gj rengar,0,0,non_toxic,0.002624712884426117,0,False
+835,wow ulti bug L0L THIS NASUS,0,0,non_toxic,0.0024787939619272947,0,False
+837,lol report nasus,0,0,non_toxic,0.00143864203710109,0,False
+838,ahahha,0,0,non_toxic,0.00149863853584975,0,False
+839,this pro flash ulti die noob,1,1,non_toxic,0.00934862345457077,0,True
+840,rengar pro,1,1,non_toxic,0.002345737535506487,0,True
+842,lagg helps a lot,0,0,non_toxic,0.0013099174248054624,0,False
+843,luck,0,0,non_toxic,0.0012328112497925758,0,False
+845,no just my bad,0,0,non_toxic,0.010088485665619373,0,False
+846,NOOBS,1,1,non_toxic,0.008826752193272114,0,True
+847,need blue,0,0,non_toxic,0.0010441382182762027,0,False
+848,k,0,0,non_toxic,0.0029873403254896402,0,False
+849,lagg op,0,0,non_toxic,0.004818591754883528,0,False
+850,kaz pls shut up you Fukin g mounth pls you were been report for flaming ty and gg,1,1,non_toxic,0.2874428331851959,0,True
+851,hahhahahaa,0,0,non_toxic,0.0008966505411081016,0,False
+852,thx,0,0,non_toxic,0.004895342048257589,0,False
+853,^^,0,0,non_toxic,0.028537355363368988,0,False
+854,says noob nasus who feeding,1,1,non_toxic,0.007267819717526436,0,True
+855,ah sorry you lose beacuse lagg,0,0,non_toxic,0.011338284239172935,0,False
+856,WOW,0,0,non_toxic,0.0020392402075231075,0,False
+857,noooooooo blue :'(,0,0,non_toxic,0.0023008084390312433,0,False
+859,im to greedy i think dont need ulti so you winn <.<,0,0,non_toxic,0.004524635151028633,0,False
+860,report nasus plz,0,0,non_toxic,0.0010758767602965236,0,False
+861,yes report me pls not rengar or kazix,0,0,non_toxic,0.0019654170610010624,0,False
+863,yes please,0,0,non_toxic,0.002414849353954196,0,False
+864,report nasus dahell rengar calm down,0,0,non_toxic,0.0020095796789973974,0,False
+865,he is 0/8 idiot,1,1,toxic,0.9588624238967896,1,False
+866,gj,0,0,non_toxic,0.0018499610014259815,0,False
+867,and we focus him u let him die need more?,0,0,non_toxic,0.0032548450399190187,0,False
+868,rengar take top after me gg and he still all my minion,0,0,non_toxic,0.02652311697602272,0,False
+869,lol i give up lagg all the way,0,0,non_toxic,0.0027258936315774918,0,False
+870,yes lag everyware,0,0,non_toxic,0.002091506030410528,0,False
+871,fuck i had zhonya,0,0,toxic,0.9458334445953369,1,True
+872,go all mid push all lane,0,0,non_toxic,0.0035379938781261444,0,False
+874,thx,0,0,non_toxic,0.004895342048257589,0,False
+875,gj,0,0,non_toxic,0.0018499610014259815,0,False
+876,gg?,0,0,non_toxic,0.0012691395822912455,0,False
+877,pro twitch,0,0,non_toxic,0.011196197010576725,0,False
+878,it's end id lol u wanna play? i stop to play 5 min ago and u say gg to me? ff _.-.,0,0,non_toxic,0.00455184280872345,0,False
+886,thresh ownsus report nasus see feeding on purose,0,0,non_toxic,0.0026476269122213125,0,False
+890,again?,0,0,non_toxic,0.001073138671927154,0,False
+891,purpose,0,0,non_toxic,0.0009142530616372824,0,False
+892,i ll rep rengar for troll pick and kha for flaming all game,1,1,non_toxic,0.321985125541687,0,True
+894,kill one and go baron :),0,0,non_toxic,0.20946522057056427,0,False
+895,ty -_-,0,0,non_toxic,0.0011873613111674786,0,False
+896,ss,0,0,non_toxic,0.004126495216041803,0,False
+897,zhonya kennen ?,0,0,non_toxic,0.0009648448904044926,0,False
+899,shut up rengar ?,1,1,non_toxic,0.48366883397102356,0,True
+901,omfg lagg lol,0,0,non_toxic,0.005544621497392654,0,False
+903,look my ap ^^,0,0,non_toxic,0.0051486617885529995,0,False
+904,anyof u lot lagging?,0,0,non_toxic,0.0023847317788749933,0,False
+905,lol,0,0,non_toxic,0.004308551084250212,0,False
+906,no onlu you,0,0,non_toxic,0.009336610324680805,0,False
+907,well fuck you too xd All report rengar,1,1,toxic,0.9444698095321655,1,False
+908,only,0,0,non_toxic,0.0015875946264714003,0,False
+909,:O,0,0,non_toxic,0.0015714099863544106,0,False
+910,report me for being the best,0,0,non_toxic,0.0012786167208105326,0,False
+911,wp,0,0,non_toxic,0.016296880319714546,0,False
+912,go ahead,0,0,non_toxic,0.0016057809116318822,0,False
+913,haahhhaha ye report rengar,0,0,non_toxic,0.0015468496130779386,0,False
+915,bg,0,0,non_toxic,0.003267183667048812,0,False
+916,ty bg,0,0,non_toxic,0.004105072468519211,0,False
+918,you guys didnt trade?,0,0,non_toxic,0.0012387566966935992,0,False
+919,oh god,0,0,non_toxic,0.0023891280870884657,0,False
+920,...........,0,0,non_toxic,0.0015011430950835347,0,False
+921,damn,0,0,toxic,0.9573490023612976,1,True
+922,ihave wrong rune,0,0,non_toxic,0.00166977324988693,0,False
+923,no good gabks until lvl 6 ganks*,0,0,non_toxic,0.0036139264702796936,0,False
+925,wrtong masteries,0,0,non_toxic,0.016823548823595047,0,False
+926,same,0,0,non_toxic,0.0009856156539171934,0,False
+927,gl hf,0,0,non_toxic,0.002603608649224043,0,False
+928,all wrong,0,0,non_toxic,0.0044229766353964806,0,False
+929,what ryze?,0,0,non_toxic,0.001809607958421111,0,False
+930,damn lol 71 ad,0,0,toxic,0.954122006893158,1,True
+932,ok don't problem,0,0,non_toxic,0.002300563268363476,0,False
+933,hahahah,0,0,non_toxic,0.0015990707324817777,0,False
+934,0 ap,0,0,non_toxic,0.001795792719349265,0,False
+935,ryze care farm and care ok?,0,0,non_toxic,0.0013058069162070751,0,False
+939,ok,0,0,non_toxic,0.006915004923939705,0,False
+940,smiteless blue mf,0,0,non_toxic,0.009411807172000408,0,False
+942,afk .-.,0,0,non_toxic,0.0013438380556181073,0,False
+943,omg mf afk ....,0,0,non_toxic,0.0015725040575489402,0,False
+944,i do hybrid,0,0,non_toxic,0.0014027288416400552,0,False
+945,ryze just build tanky with mana jax renek is --- going full tank,0,0,non_toxic,0.003546444233506918,0,False
+947,thank god ty,0,0,non_toxic,0.0015841872664168477,0,False
+949,np,0,0,non_toxic,0.0009820051491260529,0,False
+950,sry,0,0,non_toxic,0.0025639128871262074,0,False
+951,ok,0,0,non_toxic,0.006915004923939705,0,False
+952,guys,0,0,non_toxic,0.0023877292405813932,0,False
+953,np,0,0,non_toxic,0.0009820051491260529,0,False
+954,np,0,0,non_toxic,0.0009820051491260529,0,False
+955,sry,0,0,non_toxic,0.0025639128871262074,0,False
+956,my bad,0,0,non_toxic,0.005809319671243429,0,False
+957,but let me tank it i hav passive,0,0,non_toxic,0.0012384569272398949,0,False
+959,ok :(,0,0,non_toxic,0.0016486226813867688,0,False
+960,np,0,0,non_toxic,0.0009820051491260529,0,False
+961,gj,0,0,non_toxic,0.0018499610014259815,0,False
+962,oh god,0,0,non_toxic,0.0023891280870884657,0,False
+963,u2,0,0,non_toxic,0.011727587319910526,0,False
+964,with renekton is so difficult,0,0,non_toxic,0.001498885452747345,0,False
+966,fuuuuck sry,1,1,non_toxic,0.0050710649229586124,0,True
+968,np,0,0,non_toxic,0.0009820051491260529,0,False
+969,guy guys we need help bot,0,0,non_toxic,0.006955421529710293,0,False
+973,ty,0,0,non_toxic,0.003083755262196064,0,False
+974,diana may babysit bot,0,0,non_toxic,0.004674952011555433,0,False
+975,quinn fe fed*,0,0,non_toxic,0.17990310490131378,0,False
+978,"wow, lucky jax",0,0,non_toxic,0.00588793633505702,0,False
+979,:),0,0,non_toxic,0.0008555981330573559,0,False
+980,warded,0,0,non_toxic,0.007004640996456146,0,False
+981,guys why charge in?,0,0,non_toxic,0.0014405393740162253,0,False
+983,bot really gj,0,0,non_toxic,0.003604781348258257,0,False
+984,fed bot lane,1,1,non_toxic,0.00368711375631392,0,True
+985,omg noob bot,1,1,non_toxic,0.005255240481346846,0,True
+986,ss,0,0,non_toxic,0.004126495216041803,0,False
+987,stop flame,0,0,non_toxic,0.04333026334643364,0,False
+988,ryze blue,0,0,non_toxic,0.0011604836909100413,0,False
+989,omg sry,0,0,non_toxic,0.001936880056746304,0,False
+990,dont do that,0,0,non_toxic,0.0016862456686794758,0,False
+991,too greedy,0,0,non_toxic,0.24034564197063446,0,False
+992,and the supp gets the kill ..,0,0,toxic,0.8601928353309631,1,True
+993,gj leona :),0,0,non_toxic,0.0008422943064942956,0,False
+996,np,0,0,non_toxic,0.0009820060804486275,0,False
+997,u2 sry^^,0,0,non_toxic,0.006366667803376913,0,False
+998,sry,0,0,non_toxic,0.0025639140512794256,0,False
+999,np :) if you guys stop flame we do better :),0,0,non_toxic,0.006768529769033194,0,False
+1002,gj,0,0,non_toxic,0.0018499610014259815,0,False
+1003,atrox,0,0,non_toxic,0.0010577302891761065,0,False
+1004,was a bad start,0,0,non_toxic,0.0013823483604937792,0,False
+1005,gj top,0,0,non_toxic,0.0015666589606553316,0,False
+1006,top  ?,0,0,non_toxic,0.0011629498330876231,0,False
+1007,wait for me dude,0,0,non_toxic,0.0065209888853132725,0,False
+1008,but it's all in teamwork,0,0,non_toxic,0.000829606200568378,0,False
+1009,i think that,0,0,non_toxic,0.0011664400808513165,0,False
+1010,i was too far,0,0,non_toxic,0.0017502342816442251,0,False
+1011,ty,0,0,non_toxic,0.003083761315792799,0,False
+1012,you go sorry,0,0,non_toxic,0.010266968980431557,0,False
+1014,ill just help bot and mid as it seems gj,0,0,non_toxic,0.005411615129560232,0,False
+1016,sty stry,0,0,non_toxic,0.0049581825733184814,0,False
+1018,np,0,0,non_toxic,0.0009820060804486275,0,False
+1019,worth,0,0,non_toxic,0.0024039496202021837,0,False
+1020,worth,0,0,non_toxic,0.0024039496202021837,0,False
+1021,diana focus adc gj darketto,0,0,non_toxic,0.001159382052719593,0,False
+1024,WHY ATTROX !,0,0,non_toxic,0.0015939781442284584,0,False
+1025,gj,0,0,non_toxic,0.0018499610014259815,0,False
+1026,sry,0,0,non_toxic,0.0025639140512794256,0,False
+1027,gj all :),0,0,non_toxic,0.0009292410686612129,0,False
+1029,gj team,0,0,non_toxic,0.0009047010098583996,0,False
+1030,gj,0,0,non_toxic,0.0018499610014259815,0,False
+1031,0DMG!,0,0,non_toxic,0.0024926401674747467,0,False
+1032,hmm,0,0,non_toxic,0.0009229453862644732,0,False
+1033,teamwork op,0,0,non_toxic,0.0008367541595362127,0,False
+1034,what why? you followed them?,0,0,non_toxic,0.0016117525519803166,0,False
+1035,maid up for the poor start,0,0,non_toxic,0.0017092704074457288,0,False
+1036,yes,0,0,non_toxic,0.0013870126567780972,0,False
+1037,they gank me,0,0,non_toxic,0.002538475440815091,0,False
+1038,you chased them? dude dont play dumb,1,1,toxic,0.9562833905220032,1,False
+1040,say that to ru self idiot,1,1,toxic,0.9598631858825684,1,False
+1041,i'm lvl8 quinn 7,0,0,non_toxic,0.0009164935909211636,0,False
+1043,lol,0,0,non_toxic,0.004308551084250212,0,False
+1045,and she was 3-0,0,0,non_toxic,0.0014206842752173543,0,False
+1046,leona do not focus thresh pls,0,0,non_toxic,0.0012533104745671153,0,False
+1047,shit focus quinn bot,0,0,non_toxic,0.3530057966709137,0,False
+1049,i attaked him cause he wetn in my bush,0,0,non_toxic,0.018064087256789207,0,False
+1050,shit gj renek,0,0,toxic,0.9355146288871765,1,True
+1052,help,0,0,non_toxic,0.0011621242156252265,0,False
+1053,warded,0,0,non_toxic,0.007004634011536837,0,False
+1054,NO HELP,0,0,non_toxic,0.002613933989778161,0,False
+1055,gg top,0,0,non_toxic,0.0019134825561195612,0,False
+1056,i am vs renekton you know?,0,0,non_toxic,0.0029774915892630816,0,False
+1058,renek yyou won lane now you can help us :),0,0,non_toxic,0.0015314740594476461,0,False
+1062,omg ss? no ss 1vs4 ...,0,0,non_toxic,0.0021512245293706656,0,False
+1066,run,0,0,non_toxic,0.0018439323175698519,0,False
+1067,back,0,0,non_toxic,0.0015847734175622463,0,False
+1068,just back,0,0,non_toxic,0.007602735422551632,0,False
+1069,after red,0,0,non_toxic,0.0013387397630140185,0,False
+1070,xd,0,0,non_toxic,0.0062274569645524025,0,False
+1071,chill bot lane plz,0,0,non_toxic,0.0009698272915557027,0,False
+1072,leona stun quinn pls,0,0,non_toxic,0.0030425554141402245,0,False
+1075,u caN KIL HIM,0,0,non_toxic,0.00675161462277174,0,False
+1076,no just care,0,0,non_toxic,0.00878311786800623,0,False
+1078,we need wards and plz stop die bot lane,0,0,non_toxic,0.0027410879265516996,0,False
+1080,all bot renk op,0,0,non_toxic,0.005859974306076765,0,False
+1083,gj,0,0,non_toxic,0.0018499610014259815,0,False
+1084,gg top gg gg gg,0,0,non_toxic,0.001414853730238974,0,False
+1088,omg,0,0,non_toxic,0.00251045566983521,0,False
+1089,img,0,0,non_toxic,0.019769985228776932,0,False
+1090,gj,0,0,non_toxic,0.0018499610014259815,0,False
+1091,I need blue,0,0,non_toxic,0.0010123420506715775,0,False
+1092,omg,0,0,non_toxic,0.00251045566983521,0,False
+1093,ty,0,0,non_toxic,0.003083761315792799,0,False
+1094,look to his farm and he got alot of kills,0,0,non_toxic,0.0598820261657238,0,False
+1095,ops gj,0,0,non_toxic,0.0017146846512332559,0,False
+1097,why why,0,0,non_toxic,0.0015943499747663736,0,False
+1098,quinn care,0,0,non_toxic,0.0030605942010879517,0,False
+1099,gj,0,0,non_toxic,0.0018499610014259815,0,False
+1100,this renek is strong,0,0,non_toxic,0.0074076345190405846,0,False
+1101,don't focus him just focus other,0,0,non_toxic,0.0015354471979662776,0,False
+1103,"i wasnt, i had to get him off quinn",0,0,non_toxic,0.005441969260573387,0,False
+1104,mf aand ori first,0,0,non_toxic,0.0009035587427206337,0,False
+1105,omg,0,0,non_toxic,0.00251045566983521,0,False
+1106,quinn back,0,0,non_toxic,0.0030265916138887405,0,False
+1107,renek mid,0,0,non_toxic,0.0027902843430638313,0,False
+1109,",,,",0,0,non_toxic,0.003364774864166975,0,False
+1110,not worth gj,0,0,non_toxic,0.001632446306757629,0,False
+1112,ok,0,0,non_toxic,0.006915001664310694,0,False
+1113,next time dont do it jax =)),0,0,non_toxic,0.001209499896503985,0,False
+1114,yes,0,0,non_toxic,0.0013870126567780972,0,False
+1115,focus quinn,0,0,non_toxic,0.001032325904816389,0,False
+1116,because oriqanna XD,0,0,non_toxic,0.004586037714034319,0,False
+1117,"and because we were all too low thresh, more vision plz",0,0,non_toxic,0.008797850459814072,0,False
+1120,this orianna i will not hit him anymore,0,0,non_toxic,0.006880879867821932,0,False
+1122,yes,0,0,non_toxic,0.0013870126567780972,0,False
+1123,back all back,0,0,non_toxic,0.003490864299237728,0,False
+1125,noob ryze,1,1,non_toxic,0.004990415181964636,0,True
+1126,y flash then,0,0,non_toxic,0.0015288136200979352,0,False
+1127,yes you made me waste flash,0,0,non_toxic,0.009346521459519863,0,False
+1128,renek ...,0,0,non_toxic,0.0020405766554176807,0,False
+1129,pusjh,0,0,non_toxic,0.04870906472206116,0,False
+1130,why push ?,0,0,non_toxic,0.001330193947069347,0,False
+1132,ok you are op in lane but pls now teamwork,0,0,non_toxic,0.0017041974933817983,0,False
+1135,we need wards shit so fed,0,0,toxic,0.9133842587471008,1,True
+1138,renk suck,1,1,toxic,0.9399802088737488,1,False
+1139,renke why go for supp ...,0,0,non_toxic,0.010355779901146889,0,False
+1140,he focus supp i usually not blame nobody but wtf why focus supp?,0,0,non_toxic,0.0025467518717050552,0,False
+1145,renke focus quinn renek*,0,0,non_toxic,0.004413791000843048,0,False
+1147,dont focus renecton,0,0,non_toxic,0.001163892331533134,0,False
+1148,bye mf,0,0,non_toxic,0.0015845929738134146,0,False
+1149,wait for me and ryze,0,0,non_toxic,0.004183852579444647,0,False
+1150,care,0,0,non_toxic,0.001858979812823236,0,False
+1151,quinn full life,0,0,non_toxic,0.0030660962220281363,0,False
+1152,this focus omg ffs!,0,0,non_toxic,0.0014294690918177366,0,False
+1155,gj!!!,0,0,non_toxic,0.002451133681461215,0,False
+1156,1vs5 ...,0,0,non_toxic,0.0010043531656265259,0,False
+1157,focus,0,0,non_toxic,0.0008238872396759689,0,False
+1158,quinn full hp,0,0,non_toxic,0.0037801028229296207,0,False
+1159,YEAH,0,0,non_toxic,0.0019474697764962912,0,False
+1160,omg,0,0,non_toxic,0.002510456833988428,0,False
+1161,no focus gg,0,0,non_toxic,0.0014283640775829554,0,False
+1163,focus quinn! renek focus quinn!!!!!!!,0,0,non_toxic,0.0011376059846952558,0,False
+1165,we lose now,0,0,non_toxic,0.001421589870005846,0,False
+1166,i cant focus quinn he run !,0,0,non_toxic,0.0013262723805382848,0,False
+1167,they all focus me,0,0,non_toxic,0.0012207883410155773,0,False
+1169,of course they do they can focus,0,0,non_toxic,0.000908358080778271,0,False
+1171,ryze you just stood there for mf's ult? kinda funny you know....xd,0,0,non_toxic,0.010816540569067001,0,False
+1172,i knw,0,0,non_toxic,0.0031668071169406176,0,False
+1173,mf renek so greedy,0,0,non_toxic,0.1366543024778366,0,False
+1176,wards,0,0,non_toxic,0.0010646117152646184,0,False
+1177,all all come to same lane,0,0,non_toxic,0.001550111104734242,0,False
+1180,drake,0,0,non_toxic,0.0024172028061002493,0,False
+1181,focus quinn ok?,0,0,non_toxic,0.0009886891348287463,0,False
+1183,yes,0,0,non_toxic,0.0013870126567780972,0,False
+1184,I DO WARMOG,0,0,non_toxic,0.0018864116864278913,0,False
+1185,ward baron,0,0,non_toxic,0.0021005342714488506,0,False
+1186,good,0,0,non_toxic,0.0010039332555606961,0,False
+1187,warded,0,0,non_toxic,0.007004640996456146,0,False
+1188,noob supp never ward baron and drake,1,1,non_toxic,0.008751839399337769,0,True
+1190,don't flame pls,0,0,non_toxic,0.004005586262792349,0,False
+1191,renek then start focus rigth,0,0,non_toxic,0.0009083875920623541,0,False
+1192,always warded but thresh destriyes then with violets,0,0,non_toxic,0.009213966317474842,0,False
+1193,you 3/7 ...,0,0,non_toxic,0.0010117654455825686,0,False
+1194,renek off farming team report renekton plz,0,0,non_toxic,0.0015495001571252942,0,False
+1197,thx your flame leona was writing,0,0,non_toxic,0.003098726039752364,0,False
+1198,yep^^,0,0,non_toxic,0.0028666406869888306,0,False
+1199,and we die all,0,0,non_toxic,0.02450905740261078,0,False
+1200,he knows how to win lane but not tf,0,0,non_toxic,0.0013829369563609362,0,False
+1201,gg report my bot lane please,0,0,non_toxic,0.0013852253323420882,0,False
+1202,this was won,0,0,non_toxic,0.0027764865662902594,0,False
+1203,report renekton,0,0,non_toxic,0.0023751568514853716,0,False
+1204,report renekton,0,0,non_toxic,0.0023751568514853716,0,False
+1205,gg,0,0,non_toxic,0.002295859856531024,0,False
+1206,gj,0,0,non_toxic,0.0018499610014259815,0,False
+1207,gg,0,0,non_toxic,0.002295859856531024,0,False
+1208,bg,0,0,non_toxic,0.0032671852968633175,0,False
+1209,gg,0,0,non_toxic,0.002295859856531024,0,False
+1210,gg,0,0,non_toxic,0.002295859856531024,0,False
+1211,ty,0,0,non_toxic,0.003083755262196064,0,False
+1212,k,0,0,non_toxic,0.0029873403254896402,0,False
+1213,so fun against plat,0,0,non_toxic,0.0020093864295631647,0,False
+1214,im not plat im wood IV,0,0,non_toxic,0.004514601081609726,0,False
+1216,yes i know u also play like it :D,0,0,non_toxic,0.0014882427640259266,0,False
+1217,ward?,0,0,non_toxic,0.0011228058720007539,0,False
+1218,^^,0,0,non_toxic,0.028537355363368988,0,False
+1219,no,0,0,non_toxic,0.0029323964845389128,0,False
+1220,im base better farm,0,0,non_toxic,0.0020100323017686605,0,False
+1222,dc,0,0,non_toxic,0.0016296005342155695,0,False
+1223,ok now im here see im bad,0,0,non_toxic,0.011976378969848156,0,False
+1225,jinxx no flas,0,0,non_toxic,0.004015874117612839,0,False
+1226,ss lee sin,0,0,non_toxic,0.012437528930604458,0,False
+1227,omg,0,0,non_toxic,0.002510456833988428,0,False
+1228,:D,0,0,non_toxic,0.0024251416325569153,0,False
+1229,sega sunfire i botush s armor,0,0,non_toxic,0.0016708543989807367,0,False
+1231,kofti,0,0,non_toxic,0.0015236716717481613,0,False
+1232,dae shte q nasera skachai,0,0,non_toxic,0.02608286589384079,0,False
+1235,need ganks top lane,0,0,non_toxic,0.0008505255100317299,0,False
+1236,ela chakai sega bii,0,0,non_toxic,0.0009828212205320597,0,False
+1239,oom,0,0,non_toxic,0.001446214271709323,0,False
+1240,next,0,0,non_toxic,0.0020150747150182724,0,False
+1241,bastard fuck you im afk fucking gold shit player go fuck your mother nice feed of bluebuff faggot,1,1,toxic,0.965212881565094,1,False
+1248,dont talk noob,1,1,non_toxic,0.003699012566357851,0,True
+1249,goldie shut up,1,1,toxic,0.6768930554389954,1,False
+1250,lol cockscuekr dont talk pls,1,1,non_toxic,0.3995741903781891,0,True
+1251,go steal some stuff polish faggot,1,1,non_toxic,0.023161593824625015,0,True
+1252,be more useless pls polish is ur mother epic,1,1,toxic,0.9127145409584045,1,False
+1255,ok im afk fuyk you,1,1,non_toxic,0.20168475806713104,0,True
+1257,nice 4 rpeort for u usless noob,1,1,non_toxic,0.002349195070564747,0,True
+1258,shut up bastard your the one getting reported,1,1,toxic,0.9287708401679993,1,False
+1260,qq more uyseless,1,1,non_toxic,0.02398538589477539,0,True
+1261,i need blue pls,0,0,non_toxic,0.0013684324221685529,0,False
+1262,worst adc eu no dmg no positioning,1,1,non_toxic,0.030098306015133858,0,True
+1264,sure kiddo if u wanna we can play 1v1,1,1,non_toxic,0.0012670350261032581,0,True
+1266,its easy to win vs you,1,1,non_toxic,0.00134933996014297,0,True
+1267,sure,0,0,non_toxic,0.0011028910521417856,0,False
+1268,lets do this,0,0,non_toxic,0.0037416827399283648,0,False
+1269,we will see,0,0,non_toxic,0.0013578033540397882,0,False
+1270,usefull ult,0,0,non_toxic,0.005070651415735483,0,False
+1271,uare useless kiddo qq,1,1,non_toxic,0.15652954578399658,0,True
+1273,nice blue jinx insta feed to enemie,1,1,non_toxic,0.003263958729803562,0,True
+1276,why should i ult noobs?,1,1,non_toxic,0.004086111206561327,0,True
+1277,itrs not hard when no one marks u lol wht do u ulty u then ?,0,0,non_toxic,0.01751716248691082,0,False
+1279,positioning cause im good,0,0,non_toxic,0.003912718966603279,0,False
+1281,,0,0,non_toxic,0.002407343592494726,0,False
+1282,noob mid,1,1,non_toxic,0.005097283516079187,0,True
+1283,gg,0,0,non_toxic,0.002295859856531024,0,False
+1284,gg,0,0,non_toxic,0.002295859856531024,0,False
+1285,gg,0,0,non_toxic,0.002295859856531024,0,False
+1286,gl hf freinds,0,0,non_toxic,0.023202138021588326,0,False
+1287,dat heal choice :-D,0,0,non_toxic,0.0014698774321004748,0,False
+1288,:aliens:,0,0,non_toxic,0.009195231832563877,0,False
+1289,Tha haters [:,0,0,non_toxic,0.06808312237262726,0,False
+1290,am i? guess not,0,0,non_toxic,0.0016860851319506764,0,False
+1291,Trick is,0,0,non_toxic,0.025438755750656128,0,False
+1292,smiteless red,0,0,non_toxic,0.07472749799489975,0,False
+1293,funny isnt it?,0,0,non_toxic,0.0010329560609534383,0,False
+1294,Nasus is not about killing c:,0,0,non_toxic,0.08839847147464752,0,False
+1295,bed runes but ok :D,0,0,non_toxic,0.0028886469081044197,0,False
+1296,ooo rlly,0,0,non_toxic,0.013676516711711884,0,False
+1297,nice runes vayne,0,0,non_toxic,0.008287999778985977,0,False
+1298,*bad,0,0,non_toxic,0.050739586353302,0,False
+1299,omg,0,0,non_toxic,0.00251045566983521,0,False
+1300,omg,0,0,non_toxic,0.00251045566983521,0,False
+1301,u have runes for bed,1,1,non_toxic,0.003770063864067197,0,True
+1302,nice runes vayne,0,0,non_toxic,0.008287999778985977,0,False
+1303,nice,0,0,non_toxic,0.0009780623950064182,0,False
+1304,reeeeport already,0,0,non_toxic,0.0023139126133173704,0,False
+1305,:DD,0,0,non_toxic,0.0023776916787028313,0,False
+1306,haha,0,0,non_toxic,0.001581427757628262,0,False
+1307,Lol'd,0,0,non_toxic,0.004610609263181686,0,False
+1308,no its not ok gg surrender report afk,1,1,non_toxic,0.0018427426693961024,0,True
+1311,:DD,0,0,non_toxic,0.0023776916787028313,0,False
+1312,LOL,0,0,non_toxic,0.004308551084250212,0,False
+1313,25 armor ftw,0,0,non_toxic,0.0008295145235024393,0,False
+1314,jobs fucked,1,1,toxic,0.6771016716957092,1,False
+1315,its k i have W,0,0,non_toxic,0.017999732866883278,0,False
+1316,nice for her w..:p,0,0,non_toxic,0.003954993560910225,0,False
+1317,on lolnexus she have lifesteal rune,0,0,non_toxic,0.012145647779107094,0,False
+1318,(plus arrmor),0,0,non_toxic,0.0007981573580764234,0,False
+1319,thy,0,0,non_toxic,0.006004904862493277,0,False
+1320,"bed runes , pulls of armor",0,0,non_toxic,0.006087461952120066,0,False
+1321,ward here,0,0,non_toxic,0.0018299608491361141,0,False
+1322,41 armor :) W ...,0,0,non_toxic,0.0014274774584919214,0,False
+1324,eh...,0,0,non_toxic,0.0016189264133572578,0,False
+1325,Sigh,0,0,non_toxic,0.0010681846179068089,0,False
+1326,gj,0,0,non_toxic,0.0018499610014259815,0,False
+1327,ty,0,0,non_toxic,0.003083761315792799,0,False
+1328,I hate lee's,0,0,non_toxic,0.023105068132281303,0,False
+1329,gj,0,0,non_toxic,0.0018499610014259815,0,False
+1330,ill help mid whne possible,0,0,non_toxic,0.0036040397826582193,0,False
+1331,hate guys like uuu girl,1,1,non_toxic,0.05602496117353439,0,True
+1332,nah i would be ok but vi tried to gank,0,0,non_toxic,0.002114654518663883,0,False
+1335,np,0,0,non_toxic,0.0009820051491260529,0,False
+1336,and i lost all my mana,0,0,non_toxic,0.0026991155464202166,0,False
+1337,sure its my bad lol,0,0,non_toxic,0.004973701201379299,0,False
+1338,did i say it was ?,0,0,non_toxic,0.0012340646935626864,0,False
+1339,more or less,0,0,non_toxic,0.0014106244780123234,0,False
+1340,read again,0,0,non_toxic,0.001625001896172762,0,False
+1341,report,0,0,non_toxic,0.000922013190574944,0,False
+1342,"dude gotta love ur ""style""",0,0,non_toxic,0.0028859812300652266,0,False
+1344,Yeah,0,0,non_toxic,0.0019474697764962912,0,False
+1345,realy nasus just afk farm on tower stop troll,1,1,toxic,0.8004180192947388,1,False
+1347,"Onre more word and ill go afk. Deal with it,",1,1,non_toxic,0.003876530798152089,0,True
+1349,useless anyways,1,1,toxic,0.9433826208114624,1,False
+1350,chill and play try not to feed,0,0,non_toxic,0.0023225899785757065,0,False
+1352,gj mid,0,0,non_toxic,0.0016498363111168146,0,False
+1353,Omg Report,0,0,non_toxic,0.001120748813264072,0,False
+1355,warded,0,0,non_toxic,0.007004640996456146,0,False
+1356,theres a big difference between your lane and my lane already :-D,0,0,non_toxic,0.003080953611060977,0,False
+1357,warded,0,0,non_toxic,0.007004640996456146,0,False
+1358,dat luck vi :x,0,0,non_toxic,0.0021627366077154875,0,False
+1359,dat luck vayne locked and still she flash,0,0,non_toxic,0.006920672953128815,0,False
+1361,fck u,1,1,non_toxic,0.001129606389440596,0,True
+1362,dat lvl up,0,0,non_toxic,0.002205608179792762,0,False
+1363,and yo motherloving tibbers it was not lvl up passive,0,0,non_toxic,0.006339462008327246,0,False
+1366,gj,0,0,non_toxic,0.0018499610014259815,0,False
+1367,this team nasus must win easy vs lee,0,0,non_toxic,0.0013091417495161295,0,False
+1369,2 times passives with different skills? not possible,0,0,non_toxic,0.0009233020828105509,0,False
+1370,idd,0,0,non_toxic,0.02895054779946804,0,False
+1371,you are so bad,1,1,non_toxic,0.013636867515742779,0,True
+1372,Lmao w/e Ill go afk if needed So stfu,1,1,non_toxic,0.0018810665933415294,0,True
+1376,go afk,1,1,non_toxic,0.002389324828982353,0,True
+1377,my w gets me 4 stacks,0,0,non_toxic,0.023904455825686455,0,False
+1378,you are useless feeder,1,1,toxic,0.9597920179367065,1,False
+1379,Mce,1,1,non_toxic,0.0019930084235966206,0,True
+1380,sigh,0,0,non_toxic,0.0010681856656447053,0,False
+1381,gj,0,0,non_toxic,0.0018499610014259815,0,False
+1382,if you afk = just no kill for other team,1,1,non_toxic,0.018718505278229713,0,True
+1383,hahah mid air q :D no summoners nasusu,0,0,non_toxic,0.0027483981102705,0,False
+1386,ok,0,0,non_toxic,0.006915004923939705,0,False
+1387,ward drake pls,0,0,non_toxic,0.0028066786471754313,0,False
+1388,gj nasusu :( i faked up,0,0,non_toxic,0.016371488571166992,0,False
+1389,lantern gank,0,0,non_toxic,0.0016683381982147694,0,False
+1390,we kill them now,0,0,toxic,0.6791735291481018,1,True
+1391,lol ?,0,0,non_toxic,0.0014075206127017736,0,False
+1392,Lol I ping for help Nobody even comes Dont blame me anymore,0,0,non_toxic,0.004852733574807644,0,False
+1396,gg nasus wp nice q dodges,0,0,non_toxic,0.010115298442542553,0,False
+1399,Hahahah Fak off,1,1,non_toxic,0.005973618943244219,0,True
+1401,gj guys,0,0,non_toxic,0.001742863329127431,0,False
+1402,lantern nm,0,0,non_toxic,0.002058974700048566,0,False
+1404,ss nasus,0,0,non_toxic,0.004460462369024754,0,False
+1405,Dat skills,0,0,non_toxic,0.00367394695058465,0,False
+1406,fuck all these ults,0,0,toxic,0.9563775062561035,1,True
+1407,annie + thresh ignite on me,0,0,non_toxic,0.006004000548273325,0,False
+1408,ever missd a on that nasus? reprot pls,0,0,non_toxic,0.014983898028731346,0,False
+1410,afk,0,0,non_toxic,0.001616537687368691,0,False
+1411,hes afk now,0,0,non_toxic,0.0038561969995498657,0,False
+1412,jarvan do u even englihs?,0,0,non_toxic,0.0013808851363137364,0,False
+1413,gj,0,0,non_toxic,0.0018499610014259815,0,False
+1414,hope u enjoyed your last troll game nasus,0,0,non_toxic,0.03130383417010307,0,False
+1415,na,0,0,non_toxic,0.0048146783374249935,0,False
+1416,...,0,0,non_toxic,0.0014519901014864445,0,False
+1417,lol,0,0,non_toxic,0.0043085492216050625,0,False
+1418,dont give up please,0,0,non_toxic,0.004098845180124044,0,False
+1419,you just had one,0,0,non_toxic,0.006876606028527021,0,False
+1420,its my promo and now that bitc h went afk,1,1,non_toxic,0.0010898432228714228,0,True
+1421,we haven o vision,0,0,non_toxic,0.0010183209087699652,0,False
+1422,ye,0,0,non_toxic,0.0025167132262140512,0,False
+1423,j4 will rape us again,1,1,non_toxic,0.012871997430920601,0,True
+1424,just report,0,0,non_toxic,0.0013843892375007272,0,False
+1425,for like 10 more sec,0,0,non_toxic,0.00240443111397326,0,False
+1426,keep ure head up man,0,0,non_toxic,0.05291594937443733,0,False
+1427,surrend at 20,0,0,non_toxic,0.0011299013858661056,0,False
+1428,still report,0,0,non_toxic,0.0009769715834408998,0,False
+1429,only if afks yes but i try encourage to not,0,0,non_toxic,0.0014589508064091206,0,False
+1430,gj,0,0,non_toxic,0.0018499610014259815,0,False
+1431,he IS afk,0,0,non_toxic,0.018396854400634766,0,False
+1432,My team pro flamers,1,1,non_toxic,0.0011690569808706641,0,True
+1433,ignore them nasusu,0,0,non_toxic,0.0038644573651254177,0,False
+1434,Ill just sit here,0,0,non_toxic,0.009983193129301071,0,False
+1435,so u can get more fed from this kid?,1,1,non_toxic,0.004245784133672714,0,True
+1436,:DDDD anne :D,0,0,non_toxic,0.00188628607429564,0,False
+1437,i sucked then on annie :D haha gj annie u shouldnt ever give up u wont get better,1,1,non_toxic,0.1646667718887329,0,True
+1440,enjoy your win and dont talk to me -.- im fking mad,1,1,non_toxic,0.048443153500556946,0,True
+1441,you cant learn from victory only from mistakes,0,0,non_toxic,0.002879267791286111,0,False
+1443,guess youre disabled,1,1,non_toxic,0.25375106930732727,0,True
+1444,big talks hahaha nice oen annie,0,0,non_toxic,0.0013427608646452427,0,False
+1447,"Meh, thanks for the try but im sad",0,0,non_toxic,0.00881389994174242,0,False
+1448,she vanished,0,0,non_toxic,0.006186021026223898,0,False
+1449,dont give up bro its not ure fault im smurfing,0,0,non_toxic,0.09522611647844315,0,False
+1450,nasus is hangin' around like rick ross bitchtits,1,1,toxic,0.9203026294708252,1,False
+1451,gg wp,0,0,non_toxic,0.010278905741870403,0,False
+1452,report,0,0,non_toxic,0.000922013190574944,0,False
+1453,gg,0,0,non_toxic,0.002295859856531024,0,False
+1454,nasus,0,0,non_toxic,0.0018933258252218366,0,False
+1455,bg,0,0,non_toxic,0.003267183667048812,0,False
+1456,gg,0,0,non_toxic,0.0022958621848374605,0,False
+1457,bg,0,0,non_toxic,0.003267183667048812,0,False
+1458,yi where will you play?,0,0,non_toxic,0.002533676801249385,0,False
+1459,mid okÃ¯Â¼Å¸Ã¯Â¼Å¸,0,0,non_toxic,0.0014357890468090773,0,False
+1461,control red bot pls,0,0,non_toxic,0.0015363780548796058,0,False
+1463,diana asked for mid,0,0,non_toxic,0.002003661124035716,0,False
+1464,bot,0,0,non_toxic,0.006990538910031319,0,False
+1465,k,0,0,non_toxic,0.0029873403254896402,0,False
+1466,draven and thres loock red pls,0,0,non_toxic,0.005172113887965679,0,False
+1468,help blue plz,0,0,non_toxic,0.00092326506273821,0,False
+1469,who's support ? darius ?,0,0,non_toxic,0.0012746868887916207,0,False
+1471,y,0,0,non_toxic,0.004600495100021362,0,False
+1472,never seen darius top,0,0,non_toxic,0.005279821343719959,0,False
+1474,yi bot JAJAJAJAJJAJAJJA gg,0,0,non_toxic,0.00472970912232995,0,False
+1477,b bad darius,0,0,non_toxic,0.008540255948901176,0,False
+1479,katarina steal blue in 7.30,0,0,non_toxic,0.0011438216315582395,0,False
+1480,OMG VOLI,0,0,non_toxic,0.0024155175779014826,0,False
+1482,loock our blue kennen,0,0,non_toxic,0.001471684081479907,0,False
+1484,ss  mid?,0,0,non_toxic,0.0013831721153110266,0,False
+1485,blue?,0,0,non_toxic,0.0008614750695414841,0,False
+1486,i need,0,0,non_toxic,0.0013745309552177787,0,False
+1487,gg top,0,0,non_toxic,0.0019134825561195612,0,False
+1488,lol,0,0,non_toxic,0.004308551084250212,0,False
+1489,fail,0,0,non_toxic,0.0033254006411880255,0,False
+1490,draven by solo?,0,0,non_toxic,0.0011328107211738825,0,False
+1491,sorry,0,0,non_toxic,0.0020529364701360464,0,False
+1492,ss top,0,0,non_toxic,0.005640630144625902,0,False
+1493,ss,0,0,non_toxic,0.004126495216041803,0,False
+1494,at 20 please,0,0,non_toxic,0.0008507439633831382,0,False
+1495,no,0,0,non_toxic,0.0029323992785066366,0,False
+1496,why katarina omg,0,0,non_toxic,0.0025162918027490377,0,False
+1497,thjx,0,0,non_toxic,0.0029794941656291485,0,False
+1498,omg kata ss mid ?,0,0,non_toxic,0.0019794313702732325,0,False
+1500,ss mid,0,0,non_toxic,0.004591025877743959,0,False
+1501,my farm stop,0,0,non_toxic,0.0022112769074738026,0,False
+1502,voli never gank bit?,0,0,non_toxic,0.001621365430764854,0,False
+1503,noob,1,1,non_toxic,0.005769256968051195,0,True
+1504,bot*,0,0,non_toxic,0.0776233971118927,0,False
+1505,i go afk,1,1,non_toxic,0.0019143351819366217,0,True
+1506,pls no,0,0,non_toxic,0.0054015484638512135,0,False
+1507,omg,0,0,non_toxic,0.002510456833988428,0,False
+1508,darius lee and yi take all time my farm,0,0,non_toxic,0.008707999251782894,0,False
+1509,ty fr help gg at 20 fuking lossers,1,1,non_toxic,0.004953437950462103,0,True
+1512,thx,0,0,non_toxic,0.004895342048257589,0,False
+1513,sry,0,0,non_toxic,0.0025639128871262074,0,False
+1514,yi and lee thx,0,0,non_toxic,0.046046070754528046,0,False
+1516,low hp,0,0,non_toxic,0.0075919716618955135,0,False
+1517,i need blue,0,0,non_toxic,0.0010123400716111064,0,False
+1518,ss top,0,0,non_toxic,0.005640630144625902,0,False
+1519,gg lost finish fast please,0,0,non_toxic,0.0011080127442255616,0,False
+1522,katarina shut up we can win play -.- diana first?,0,0,non_toxic,0.014302995055913925,0,False
+1527,srrueder,0,0,non_toxic,0.0015953059773892164,0,False
+1528,0 vision 0 communication,0,0,non_toxic,0.000891432398930192,0,False
+1530,0 vision?,0,0,non_toxic,0.0010246187448501587,0,False
+1531,all mid and win,0,0,non_toxic,0.0014264528872445226,0,False
+1533,^^ miau,0,0,non_toxic,0.0032884515821933746,0,False
+1535,yes omg surrender noobs,1,1,non_toxic,0.004944387823343277,0,True
+1537,ss top,0,0,non_toxic,0.005640630144625902,0,False
+1538,you first noob,1,1,non_toxic,0.004623608663678169,0,True
+1539,gg,0,0,non_toxic,0.002295859856531024,0,False
+1540,omg kenen,0,0,non_toxic,0.0015112868277356029,0,False
+1541,we can win we are good at teamficht,0,0,non_toxic,0.0009286245913244784,0,False
+1543,g g g g g g g g g g g g,0,0,non_toxic,0.0016595141496509314,0,False
+1555,gg,0,0,non_toxic,0.002295859856531024,0,False
+1556,push,0,0,non_toxic,0.00227320846170187,0,False
+1557,kata --- hp ...,0,0,non_toxic,0.0020077291410416365,0,False
+1558,g g g,0,0,non_toxic,0.0018683074740692973,0,False
+1561,ty ..,0,0,non_toxic,0.0019348982023075223,0,False
+1562,g g g g g g,0,0,non_toxic,0.0017954909708350897,0,False
+1568,katarina good flamer,1,1,non_toxic,0.002073578769341111,0,True
+1569,at 20 ye yes lost,0,0,non_toxic,0.0009459119755774736,0,False
+1573,all mid and win,0,0,non_toxic,0.0014264528872445226,0,False
+1574,darius ss,0,0,non_toxic,0.006785193458199501,0,False
+1575,finish finish,0,0,non_toxic,0.0007872213609516621,0,False
+1577,very noob team why go solo,1,1,non_toxic,0.0018467955524101853,0,True
+1579,gg g g g g g g g,0,0,non_toxic,0.0015711302403360605,0,False
+1587,look at your score voli ... same you noob too so bg wp,1,1,non_toxic,0.010513776913285255,0,True
+1592,gg,0,0,non_toxic,0.002295859856531024,0,False
+1593,gg,0,0,non_toxic,0.002295859856531024,0,False
+1594,gank top lv3,0,0,non_toxic,0.0008589808130636811,0,False
+1595,k,0,0,non_toxic,0.0029873403254896402,0,False
+1596,il cover red,0,0,non_toxic,0.0009616265306249261,0,False
+1597,try to don't push too much,0,0,non_toxic,0.0018494273535907269,0,False
+1598,switch over at 40,0,0,non_toxic,0.0009120177710428834,0,False
+1599,team gold vs team silver,0,0,non_toxic,0.0008218669681809843,0,False
+1600,smiteless ty,0,0,toxic,0.6735990643501282,1,True
+1601,Ye so you are all gold?,0,0,non_toxic,0.0029539354145526886,0,False
+1602,"false, ez is plat",0,0,non_toxic,0.001879578223451972,0,False
+1603,team gold raped in 3...2...1,0,0,non_toxic,0.0035785678774118423,0,False
+1604,no,0,0,non_toxic,0.0029323964845389128,0,False
+1605,you are all gold? :P,0,0,non_toxic,0.0029365206137299538,0,False
+1606,ez just to know what happened to your mmr?,0,0,non_toxic,0.0012921151937916875,0,False
+1607,i unranked D:,0,0,non_toxic,0.007731729187071323,0,False
+1609,i don't know nothing,0,0,non_toxic,0.0017436748603358865,0,False
+1610,ofcourse,0,0,non_toxic,0.0009528020746074617,0,False
+1611,help!,0,0,non_toxic,0.0012730227317661047,0,False
+1612,why not,0,0,non_toxic,0.0020203248132020235,0,False
+1613,he leftt the fight :(,0,0,non_toxic,0.004987023305147886,0,False
+1614,or boosted,0,0,non_toxic,0.00112759112380445,0,False
+1615,"no, drunk",0,0,non_toxic,0.01665562577545643,0,False
+1616,this shit keeps happening lately,0,0,toxic,0.5885039567947388,1,True
+1617,i'm pre,0,0,non_toxic,0.0010552884778007865,0,False
+1618,server,0,0,non_toxic,0.0009181599016301334,0,False
+1619,ty,0,0,non_toxic,0.003083755262196064,0,False
+1620,ty,0,0,non_toxic,0.003083755262196064,0,False
+1621,He just trolled 30 game and had a big luck going plat,1,1,non_toxic,0.01518166158348322,0,True
+1622,hes b in 1 min,0,0,non_toxic,0.011844808235764503,0,False
+1623,nice,0,0,non_toxic,0.000978061929345131,0,False
+1624,sry man,0,0,non_toxic,0.013737034983932972,0,False
+1625,udyr,0,0,non_toxic,0.008221248164772987,0,False
+1626,gj! and srry,0,0,non_toxic,0.002893793862313032,0,False
+1628,panth focus udyr,0,0,non_toxic,0.0014182646991685033,0,False
+1629,why do you stay if you know udyr is there mate ?,0,0,non_toxic,0.00344104110263288,0,False
+1630,"Dat gank top, op",0,0,non_toxic,0.003038566093891859,0,False
+1631,dat pantheon who focus the tank,0,0,non_toxic,0.0011215952690690756,0,False
+1632,no push cait,0,0,non_toxic,0.005539496894925833,0,False
+1634,too op,0,0,non_toxic,0.003028520382940769,0,False
+1635,oO,0,0,non_toxic,0.0013625751016661525,0,False
+1636,"tank in early game, yeah sure",0,0,non_toxic,0.0008707278175279498,0,False
+1637,no flash mid,0,0,non_toxic,0.0027758791111409664,0,False
+1638,good enough,0,0,non_toxic,0.0015443549491465092,0,False
+1639,does udyr have a shield? write more morgana while your adc die,0,0,non_toxic,0.0115192960947752,0,False
+1641,gj,0,0,non_toxic,0.0018499610014259815,0,False
+1642,nice,0,0,non_toxic,0.000978061929345131,0,False
+1643,brb,0,0,non_toxic,0.0016737122787162662,0,False
+1644,dat bot op,0,0,non_toxic,0.006115516647696495,0,False
+1645,Reported.,0,0,non_toxic,0.000825330673251301,0,False
+1646,same,0,0,non_toxic,0.0009856170509010553,0,False
+1647,"Report shyv please QQ, flame, trashtalk",0,0,non_toxic,0.15553595125675201,0,False
+1649,wtf,0,0,toxic,0.9340910315513611,1,True
+1650,"ignore morgana, like i did, ty",0,0,non_toxic,0.0074861664324998856,0,False
+1651,"5min of the game, already an asshole, it's a new record i guess",1,1,non_toxic,0.35650497674942017,0,True
+1652,gj,0,0,non_toxic,0.0018499610014259815,0,False
+1653,he flames me after the gank then qq,1,1,non_toxic,0.0026570193003863096,0,True
+1654,just report shyvana toxic player and ignore all,1,1,non_toxic,0.0018729326548054814,0,True
+1655,ping,0,0,non_toxic,0.0011610443470999599,0,False
+1656,u talk kinda too much for one who lsot toplane in 3 mins,1,1,non_toxic,0.002858133288100362,0,True
+1657,shyyv,0,0,non_toxic,0.0054816133342683315,0,False
+1658,nice sir,0,0,non_toxic,0.0012533486587926745,0,False
+1659,:p,0,0,non_toxic,0.002056841040030122,0,False
+1660,ward paly def,0,0,non_toxic,0.02422729693353176,0,False
+1661,i told you that lux have no flash,0,0,non_toxic,0.002668671077117324,0,False
+1662,carrying so hard lol,0,0,non_toxic,0.0017721502808853984,0,False
+1663,ow yes,0,0,non_toxic,0.006586706731468439,0,False
+1664,lux blue?,0,0,non_toxic,0.0009707087301649153,0,False
+1665,yes plz,0,0,non_toxic,0.0014243503101170063,0,False
+1666,oO,0,0,non_toxic,0.0013625751016661525,0,False
+1667,mid ss,0,0,non_toxic,0.005661545321345329,0,False
+1668,brb,0,0,non_toxic,0.0016737122787162662,0,False
+1669,cheers,0,0,non_toxic,0.001386792166158557,0,False
+1670,orianna blue,0,0,non_toxic,0.001179445767775178,0,False
+1671,sure,0,0,non_toxic,0.0011028910521417856,0,False
+1672,lol,0,0,non_toxic,0.0043085492216050625,0,False
+1673,gg,0,0,non_toxic,0.002295859856531024,0,False
+1674,the ganks :x,0,0,non_toxic,0.0010176802752539515,0,False
+1675,they are both 6 noob,1,1,non_toxic,0.004130539949983358,0,True
+1676,there it goes your blue,0,0,non_toxic,0.0009494083351455629,0,False
+1677,we were 5,0,0,non_toxic,0.001060463604517281,0,False
+1678,wp panth,0,0,non_toxic,0.013138916343450546,0,False
+1679,and u engage,0,0,non_toxic,0.002078114775940776,0,False
+1680,stop cry,0,0,non_toxic,0.029261652380228043,0,False
+1681,lost tower :s,0,0,non_toxic,0.0014591257786378264,0,False
+1682,and play,0,0,non_toxic,0.001418607891537249,0,False
+1683,relax dont fight eachother got laza,0,0,non_toxic,0.00280172610655427,0,False
+1686,oom,0,0,non_toxic,0.001446214271709323,0,False
+1687,im not ^^,0,0,non_toxic,0.025702523067593575,0,False
+1689,warded?,0,0,non_toxic,0.0016227816231548786,0,False
+1690,lux ult+cait ult on morgana come,0,0,non_toxic,0.013070004060864449,0,False
+1693,gj,0,0,non_toxic,0.0018499610014259815,0,False
+1694,why didnt we just do drake ?!?,0,0,non_toxic,0.0015799272805452347,0,False
+1695,with them alive?,0,0,non_toxic,0.002544763730838895,0,False
+1696,gj,0,0,non_toxic,0.0018499610014259815,0,False
+1697,nice,0,0,non_toxic,0.000978061929345131,0,False
+1698,drake,0,0,non_toxic,0.0024172028061002493,0,False
+1699,cheers,0,0,non_toxic,0.001386792166158557,0,False
+1700,brb,0,0,non_toxic,0.0016737122787162662,0,False
+1701,wow,0,0,non_toxic,0.0020392402075231075,0,False
+1702,ty,0,0,non_toxic,0.003083755262196064,0,False
+1703,ori afk?,0,0,non_toxic,0.0011193500831723213,0,False
+1704,wards mby ?,0,0,non_toxic,0.0009576218435540795,0,False
+1705,too feed wow,0,0,non_toxic,0.01635720580816269,0,False
+1707,nice nice,0,0,non_toxic,0.0010282265720888972,0,False
+1708,lemme farm,0,0,non_toxic,0.005112465471029282,0,False
+1709,i take blue,0,0,non_toxic,0.0011438814690336585,0,False
+1710,this is lost for sure jungler taking bluez seem so bad,0,0,non_toxic,0.003710461314767599,0,False
+1713,u are 1-4 they os u why should i give you blue?,0,0,non_toxic,0.0017710962565615773,0,False
+1716,OFC last minute fuck over,1,1,toxic,0.9354537129402161,1,False
+1718,nice suicide,1,1,non_toxic,0.03248975798487663,0,True
+1719,-_-,0,0,non_toxic,0.0010466189123690128,0,False
+1720,xD,0,0,non_toxic,0.006227454170584679,0,False
+1721,crazy cow,0,0,toxic,0.8802896738052368,1,True
+1722,ori pls stop feed,0,0,non_toxic,0.04019526019692421,0,False
+1723,yes shy,0,0,non_toxic,0.004317749757319689,0,False
+1724,in your face robot,0,0,non_toxic,0.05379602313041687,0,False
+1725,ty,0,0,non_toxic,0.003083755262196064,0,False
+1726,if you i got blue before i would be trying to get their,0,0,non_toxic,0.0036541824229061604,0,False
+1727,---,0,0,non_toxic,0.0013736631954088807,0,False
+1728,if u i got blue? wtf?,0,0,non_toxic,0.057674430310726166,0,False
+1730,brb,0,0,non_toxic,0.0016737122787162662,0,False
+1731,ult down to 39 secs,0,0,non_toxic,0.002252233913168311,0,False
+1732,if i,0,0,non_toxic,0.0015399158000946045,0,False
+1733,may i,0,0,non_toxic,0.0010358573636040092,0,False
+1734,u are 1.5,0,0,non_toxic,0.0008707855013199151,0,False
+1735,no plz,0,0,non_toxic,0.002207691315561533,0,False
+1736,u just have to farm,0,0,non_toxic,0.0024821562692523003,0,False
+1737,WARDS MORGANA ?!?!??!!,0,0,non_toxic,0.0010332828387618065,0,False
+1738,what is the meaning of gibing you blue buff? rdy? want that blue buff? take it,0,0,non_toxic,0.018727336078882217,0,False
+1742,yes,0,0,non_toxic,0.0013870126567780972,0,False
+1743,soon 30 sec ult so they cant rly push ^^ ill keep hitting ez,0,0,non_toxic,0.0027860526461154222,0,False
+1747,don't alone,0,0,non_toxic,0.0028277093078941107,0,False
+1748,WARDS WAAAARDS,0,0,non_toxic,0.008296051062643528,0,False
+1750,buy them not foibidden,0,0,non_toxic,0.0028619093354791403,0,False
+1752,2 goood support,0,0,non_toxic,0.016420990228652954,0,False
+1753,rdy?,0,0,non_toxic,0.0009872113587334752,0,False
+1754,save it lux,0,0,non_toxic,0.004038967192173004,0,False
+1755,who zoned our adc?,0,0,non_toxic,0.0010003757197409868,0,False
+1756,did U actually hit something ?=,0,0,non_toxic,0.0023953381460160017,0,False
+1757,yasuo,0,0,non_toxic,0.015609226189553738,0,False
+1758,nice,0,0,non_toxic,0.000978061929345131,0,False
+1759,dont split,0,0,non_toxic,0.0016307662008330226,0,False
+1760,and you?,0,0,non_toxic,0.0016574598848819733,0,False
+1761,thx :),0,0,non_toxic,0.0012891305377706885,0,False
+1762,np,0,0,non_toxic,0.0009820051491260529,0,False
+1763,ty udyr,0,0,non_toxic,0.011447452008724213,0,False
+1764,need wards,0,0,non_toxic,0.0012986158253625035,0,False
+1765,"i'm not your mom, go for wards too",0,0,non_toxic,0.00318422494456172,0,False
+1766,brought,0,0,non_toxic,0.0020769471302628517,0,False
+1767,gone,0,0,non_toxic,0.002331989584490657,0,False
+1768,33,0,0,non_toxic,0.0010701396968215704,0,False
+1769,we need more wards,0,0,non_toxic,0.0015007320325821638,0,False
+1770,idiots go 3on5,1,1,toxic,0.9466251730918884,1,False
+1772,your abd for splitting,0,0,non_toxic,0.022253580391407013,0,False
+1773,"can we have your udyr, we give u our shyvana, k?",0,0,non_toxic,0.009953856468200684,0,False
+1774,NO,0,0,non_toxic,0.0029323964845389128,0,False
+1775,pls :!(,0,0,non_toxic,0.0018154054414480925,0,False
+1776,could u pls report morgana for negative attitude? otherwise i hope u have him next game,1,1,non_toxic,0.0010809035738930106,0,True
+1777,NO,0,0,non_toxic,0.0029323964845389128,0,False
+1778,-_-,0,0,non_toxic,0.0010466189123690128,0,False
+1779,CAIT mon cait more agression,0,0,non_toxic,0.002077365294098854,0,False
+1782,yeah my b i fked up hard,0,0,non_toxic,0.021866483613848686,0,False
+1784,its cool but more damage plz,0,0,non_toxic,0.0012206551618874073,0,False
+1786,gj morgana,0,0,non_toxic,0.002414807677268982,0,False
+1787,ez red,0,0,non_toxic,0.0008248550002463162,0,False
+1788,ward$,0,0,non_toxic,0.004134980961680412,0,False
+1789,got no,0,0,non_toxic,0.006103552412241697,0,False
+1790,guys mid and [ush ffs if we force a 5 on 5,0,0,non_toxic,0.0032821265049278736,0,False
+1795,-_-,0,0,non_toxic,0.0010466189123690128,0,False
+1796,well win,0,0,non_toxic,0.0009428077610209584,0,False
+1797,why? why?,0,0,non_toxic,0.0012369456235319376,0,False
+1799,nice,0,0,non_toxic,0.000978061929345131,0,False
+1800,--- ---,0,0,non_toxic,0.0014163595624268055,0,False
+1802,?,0,0,non_toxic,0.0011013058247044683,0,False
+1803,ping can't normal use combo D:,0,0,non_toxic,0.0009962350595742464,0,False
+1806,care pant,0,0,non_toxic,0.012590260244905949,0,False
+1807,huh,0,0,non_toxic,0.002432278823107481,0,False
+1808,blue,0,0,non_toxic,0.0008926832233555615,0,False
+1809,gonna smoke,0,0,non_toxic,0.0030631213448941708,0,False
+1810,lux blue,0,0,non_toxic,0.0019107204861938953,0,False
+1811,cheers more vision ali,0,0,non_toxic,0.002359696663916111,0,False
+1814,have limit,0,0,non_toxic,0.0010978709906339645,0,False
+1815,no tf,0,0,non_toxic,0.0033392151817679405,0,False
+1816,so all mid plx,0,0,non_toxic,0.001380016328766942,0,False
+1818,This engage was stupid pant,0,0,toxic,0.9578973650932312,1,True
+1819,end,0,0,non_toxic,0.0012394695077091455,0,False
+1820,really really really stupid,0,0,toxic,0.9275400042533875,1,True
+1821,FOCUS THEM TANKS,0,0,non_toxic,0.0013410851825028658,0,False
+1822,"No, your fault",0,0,non_toxic,0.0214605201035738,0,False
+1823,got warmogs,0,0,non_toxic,0.0052893636748194695,0,False
+1824,shut up and assume it,0,0,non_toxic,0.07136503607034683,0,False
+1825,but keep focus,0,0,non_toxic,0.0008395255426876247,0,False
+1826,you're tard in this move,1,1,non_toxic,0.012472419999539852,0,True
+1827,I got warmogs too ^^,0,0,non_toxic,0.026335038244724274,0,False
+1828,say that to pantheon free baron,0,0,non_toxic,0.0035273933317512274,0,False
+1830,nice focus ali ^^,0,0,non_toxic,0.0010361745953559875,0,False
+1832,"Pant, dont engage like a rambo tard like that",0,0,non_toxic,0.05400456488132477,0,False
+1833,b,0,0,non_toxic,0.0026476169005036354,0,False
+1834,"Lux ult 1k1 dmg, np",0,0,non_toxic,0.0022882595658302307,0,False
+1835,nop,0,0,non_toxic,0.0038634883239865303,0,False
+1836,got GA fucking blocks,1,1,toxic,0.9556666612625122,1,False
+1838,focus lux,0,0,non_toxic,0.0016955295577645302,0,False
+1839,faq,0,0,non_toxic,0.0018967989599332213,0,False
+1840,....,0,0,non_toxic,0.001384903327561915,0,False
+1841,3/9 and u take my blue? gg,0,0,non_toxic,0.0009975448483601213,0,False
+1842,morgana and panth engage i peel from carry,0,0,non_toxic,0.0009641405194997787,0,False
+1843,cait ffs,1,1,non_toxic,0.012649825774133205,0,True
+1845,lux where is your zhonya,0,0,non_toxic,0.006111037917435169,0,False
+1846,no need,0,0,non_toxic,0.003116005100309849,0,False
+1847,idiots,1,1,toxic,0.9572960138320923,1,False
+1848,orianna forgot dmg at school?,0,0,non_toxic,0.0012493488611653447,0,False
+1849,best joke ever,0,0,non_toxic,0.007899977266788483,0,False
+1850,u are a joke a bad one,1,1,non_toxic,0.14659768342971802,0,True
+1852,yes sure,0,0,non_toxic,0.0014952173223719,0,False
+1853,then b,0,0,non_toxic,0.0017985925078392029,0,False
+1854,fast$ BACK,0,0,non_toxic,0.001607266254723072,0,False
+1856,yeah i cant do shit vs that,0,0,toxic,0.677544355392456,1,True
+1857,tzhonya,0,0,non_toxic,0.001775751356035471,0,False
+1858,wont matter lol,0,0,non_toxic,0.0027435733936727047,0,False
+1859,wait for me too mainstream,0,0,non_toxic,0.0018940315349027514,0,False
+1860,end it udyr,0,0,non_toxic,0.0028592583257704973,0,False
+1861,sup ?,0,0,non_toxic,0.0014378923224285245,0,False
+1862,dat aim lux,0,0,non_toxic,0.005063280928879976,0,False
+1863,full build!,0,0,non_toxic,0.0015009993221610785,0,False
+1864,cait got her so,0,0,non_toxic,0.004998310934752226,0,False
+1866,gg wp,0,0,non_toxic,0.010278905741870403,0,False
+1867,just cutting him off,0,0,non_toxic,0.06893471628427505,0,False
+1868,ez shyvana to low to carry,0,0,non_toxic,0.0010290252976119518,0,False
+1869,gg,0,0,non_toxic,0.002295859856531024,0,False
+1870,gg,0,0,non_toxic,0.002295859856531024,0,False
+1871,gg!,0,0,non_toxic,0.003051408566534519,0,False
+1872,INVAdE,0,0,non_toxic,0.0042289081029593945,0,False
+1873,quiin and cho are premade,0,0,non_toxic,0.0033926612231880426,0,False
+1874,i know,0,0,non_toxic,0.00100698322057724,0,False
+1875,you know the feeling .. when a game starts .. and you know.. nice its over :D i got this feelin :D,0,0,non_toxic,0.001716742874123156,0,False
+1877,its not :D,0,0,non_toxic,0.0019460743060335517,0,False
+1878,why because of me ? :(,0,0,non_toxic,0.0014777656178921461,0,False
+1879,let twitch,0,0,non_toxic,0.011006253771483898,0,False
+1880,ye as i said,0,0,non_toxic,0.0011643713805824518,0,False
+1882,no chance tho,0,0,non_toxic,0.0033031818456947803,0,False
+1883,its over bad flash,0,0,non_toxic,0.007147142663598061,0,False
+1885,hm,0,0,non_toxic,0.001405311981216073,0,False
+1886,its not over haha,0,0,non_toxic,0.002068264177069068,0,False
+1887,smiteless ple,0,0,non_toxic,0.29736053943634033,0,False
+1888,dont be negative pls,0,0,non_toxic,0.00222781952470541,0,False
+1889,someone use flash ?,0,0,non_toxic,0.0011496554361656308,0,False
+1890,kha,0,0,non_toxic,0.002678885357454419,0,False
+1891,no,0,0,non_toxic,0.0029323964845389128,0,False
+1892,ok its very good for us,0,0,non_toxic,0.0012586783850565553,0,False
+1894,ss,0,0,non_toxic,0.004126495216041803,0,False
+1895,gj,0,0,non_toxic,0.0018499610014259815,0,False
+1896,:D,0,0,non_toxic,0.0024251416325569153,0,False
+1897,np,0,0,non_toxic,0.0009820051491260529,0,False
+1898,yeah over :D,0,0,non_toxic,0.004685303661972284,0,False
+1899,op slow :p no its not over haha,0,0,non_toxic,0.00211638817563653,0,False
+1901,love it,0,0,non_toxic,0.0017032226314768195,0,False
+1902,lol voli?,0,0,non_toxic,0.0014893464976921678,0,False
+1903,ward top pls ohhh myy god team why,0,0,non_toxic,0.0015354963252320886,0,False
+1907,i come top,0,0,non_toxic,0.0014680051244795322,0,False
+1908,for real?,0,0,non_toxic,0.0012975884601473808,0,False
+1909,gj,0,0,non_toxic,0.0018499610014259815,0,False
+1910,gg wp i normaly dont flame but you my god so bad rly,0,0,non_toxic,0.016284769400954247,0,False
+1916,me?,0,0,non_toxic,0.0014792467700317502,0,False
+1917,yeah you get picked so easy free points for you,0,0,non_toxic,0.0016346508637070656,0,False
+1921,ok voli you are not flamÃÂ±ng :) you are fuckÃÂ±ng ÃÂ±nsanely negatÃÂ±ve from the start of the game,1,1,toxic,0.654509425163269,1,False
+1924,of course,0,0,non_toxic,0.0011452051112428308,0,False
+1925,nvm,0,0,non_toxic,0.0008987911278381944,0,False
+1926,cause i knew,0,0,non_toxic,0.0017763592768460512,0,False
+1927,ye u are voli,0,0,non_toxic,0.005801902152597904,0,False
+1929,you would be that bad,0,0,non_toxic,0.0038951891474425793,0,False
+1930,you can report me,0,0,non_toxic,0.0013460040790960193,0,False
+1931,you got no support chamops :D:D:D,0,0,non_toxic,0.004384600557386875,0,False
+1932,ÃÂ± dont have leona thats ÃÂ±t nvm ÃÂ±gnored,0,0,non_toxic,0.001985157374292612,0,False
+1936,gj,0,0,non_toxic,0.0018499610014259815,0,False
+1937,dont you got other sup champs ?,0,0,non_toxic,0.046974439173936844,0,False
+1938,voli afk ?,0,0,non_toxic,0.001201104954816401,0,False
+1939,he just ganked me mid so probably no,0,0,non_toxic,0.006959592457860708,0,False
+1941,no. but hes a negative attidude since first min after fb gj,0,0,non_toxic,0.0018811865011230111,0,False
+1943,:D:D:D see this :D:D:D:D:D:D:D:D i knew it :D,0,0,non_toxic,0.0035849667619913816,0,False
+1947,aaaaaaaaaaaaaaaaaaaaa,0,0,non_toxic,0.002648798283189535,0,False
+1948,gj,0,0,non_toxic,0.0018499610014259815,0,False
+1949,gj,0,0,non_toxic,0.0018499610014259815,0,False
+1950,ty nasus,0,0,non_toxic,0.004201547242701054,0,False
+1952,YEAH no words,0,0,non_toxic,0.0032395427115261555,0,False
+1954,it's normal^^,0,0,non_toxic,0.0024943752214312553,0,False
+1955,report noob team,1,1,non_toxic,0.0012412415817379951,0,True
+1956,lol dat flash,0,0,non_toxic,0.011571917682886124,0,False
+1957,report quinn pls feeding,1,1,non_toxic,0.001249107881449163,0,True
+1959,feeding is no report reason,0,0,non_toxic,0.001595965470187366,0,False
+1961,report twitch for making quinn feed,0,0,non_toxic,0.004149434622377157,0,False
+1963,ye,0,0,non_toxic,0.0025167132262140512,0,False
+1964,yeah easy soo easy for you with this noob botlane,1,1,non_toxic,0.002174756955355406,0,True
+1967,drake,0,0,non_toxic,0.0024172028061002493,0,False
+1968,ty riot for such noobs he picks cho for supp .. because he dont have any support chamops :D you fuckin kdding me ?,1,1,toxic,0.9266290664672852,1,False
+1971,voli stop negative atitude,0,0,non_toxic,0.0012641907669603825,0,False
+1972,i know,0,0,non_toxic,0.00100698322057724,0,False
+1973,they are premade,0,0,non_toxic,0.004149416461586952,0,False
+1974,warded?,0,0,non_toxic,0.0016227816231548786,0,False
+1975,LOVE THIS SILVER ! 1,0,0,non_toxic,0.008040400221943855,0,False
+1977,voli just ignored,0,0,non_toxic,0.016404733061790466,0,False
+1978,cause i knew what would happen see :D,0,0,non_toxic,0.0019671397749334574,0,False
+1980,ss mid care bot,0,0,non_toxic,0.012343596667051315,0,False
+1982,dont focus blitz guys,0,0,non_toxic,0.0014498705277219415,0,False
+1983,re,0,0,non_toxic,0.002599637024104595,0,False
+1984,they are shit noobs sorry but thats the fact support and ad i had a bad feeling about them .. and i was right,1,1,toxic,0.885567307472229,1,False
+1987,ok i troll,0,0,toxic,0.9428861141204834,1,True
+1988,gj,0,0,non_toxic,0.0018499610014259815,0,False
+1989,twich 9 kills :D:D:D:D:D,0,0,non_toxic,0.023027440533041954,0,False
+1990,hold mid need to base,0,0,non_toxic,0.0009299013181589544,0,False
+1992,see those look look!!,0,0,non_toxic,0.0011980686103925109,0,False
+1996,ill buy aegis,0,0,non_toxic,0.0021792359184473753,0,False
+1997,feeders !!!! pls report bot lane,0,0,non_toxic,0.0023428737185895443,0,False
+1999,ss top,0,0,non_toxic,0.005640630144625902,0,False
+2000,twitch is the only problem,0,0,non_toxic,0.012272697873413563,0,False
+2001,no the problem is twich quin and cho,0,0,non_toxic,0.005196257960051298,0,False
+2004,voli 1 vs1  ? xDD,0,0,non_toxic,0.0011284432839602232,0,False
+2006,:D we are fighting 3 vs 7 2 feeders ... who gave them all their items thats the problem not twich,0,0,non_toxic,0.008459118194878101,0,False
+2012,s ss,0,0,non_toxic,0.0055753388442099094,0,False
+2014,dead,0,0,non_toxic,0.19782720506191254,0,False
+2015,cho buy wards pls warded,0,0,non_toxic,0.00218883971683681,0,False
+2018,i am afk :D:D:D:D sorry but,0,0,non_toxic,0.0019743838347494602,0,False
+2021,ss mid'ÃÂ¤,0,0,non_toxic,0.002985298866406083,0,False
+2022,look that bot,0,0,non_toxic,0.0025990186259150505,0,False
+2023,fuck u voli,1,1,toxic,0.9526473879814148,1,False
+2024,pls pls pls pls report bot,0,0,non_toxic,0.0015089227817952633,0,False
+2025,report voli...,0,0,non_toxic,0.0011010321322828531,0,False
+2026,for spamming,0,0,non_toxic,0.0015331285540014505,0,False
+2027,how can someone be so bad ??,1,1,non_toxic,0.0012149481335654855,0,True
+2028,negative attitude,1,1,non_toxic,0.001395377330482006,0,True
+2029,yeah but was i right ? yes i was,0,0,non_toxic,0.001021303702145815,0,False
+2032,"he is not helping here because of flaming, after game he said oh they are 1/10 or stf report them, ÃÂ±ts too bad",1,1,non_toxic,0.0033044693991541862,0,True
+2034,right now its my fault bot feeding you :D,1,1,non_toxic,0.006223990116268396,0,True
+2035,there is no one in this world could play good whÃÂ±le a man flamÃÂ±ng lÃÂ±ke thÃÂ±s,0,0,non_toxic,0.011674563400447369,0,False
+2036,what i wasnt flaming .. i said i have abad feeling and tell me was i right ?,0,0,non_toxic,0.0019299816340208054,0,False
+2039,"well twitch 16 kills, i dont think we can change win",0,0,non_toxic,0.0014148281188681722,0,False
+2040,yeah of course not,0,0,non_toxic,0.0014337593456730247,0,False
+2041,lemme b,0,0,non_toxic,0.0079173743724823,0,False
+2042,--- D:D: go in quin take them see :D:D shit,0,0,toxic,0.9211422204971313,1,True
+2047,idiot,1,1,toxic,0.956641674041748,1,False
+2048,quinn why do u go in?,0,0,non_toxic,0.001686771516688168,0,False
+2049,pls tell me .. why are you so bad ? why why you picked cho for support???,1,1,non_toxic,0.0022216676734387875,0,True
+2052,lol,0,0,non_toxic,0.0043085492216050625,0,False
+2053,cause you dont have leo ? .. okay .. but maybe you got other sup champs .. you know ? press yes pls,0,0,non_toxic,0.011172834783792496,0,False
+2056,blitz dat grab kill us,0,0,toxic,0.9304758310317993,1,True
+2059,xDDDDDDD,0,0,non_toxic,0.0038403617218136787,0,False
+2060,gj,0,0,non_toxic,0.0018499610014259815,0,False
+2061,^^,0,0,non_toxic,0.028537355363368988,0,False
+2062,worth arg voli,0,0,non_toxic,0.0012168840039521456,0,False
+2064,yeah bad well .. not one ward on map :D:D:D i think i had more wards than cho :D,0,0,non_toxic,0.0017273888224735856,0,False
+2068,that dmg :b :D,0,0,non_toxic,0.0027042082510888577,0,False
+2070,okay report me for spamming .. but i ask you .. pls tell me .. this bot they are bad right ?,1,1,non_toxic,0.007534725591540337,0,True
+2072,gg wp well. bot was bad but we have to win as a team so no report on bot pls gg wp,0,0,non_toxic,0.0023790625855326653,0,False
+2077,gg,0,0,non_toxic,0.002295859856531024,0,False
+2078,wp,0,0,non_toxic,0.01629687286913395,0,False
+2079,what,0,0,non_toxic,0.002111990936100483,0,False
+2080,report voli,0,0,non_toxic,0.0011476699728518724,0,False
+2139,GL & HF,0,0,non_toxic,0.001351468381471932,0,False
+2140,u 2,0,0,non_toxic,0.0015968113439157605,0,False
+2141,gl all hf,0,0,non_toxic,0.0023041078820824623,0,False
+2142,haha jarven and cait he have 54victory,0,0,non_toxic,0.003206044202670455,0,False
+2143,and ?,0,0,non_toxic,0.0011595400283113122,0,False
+2144,u2 thx,0,0,non_toxic,0.00908418744802475,0,False
+2145,we have ---. ........,0,0,non_toxic,0.0023266186472028494,0,False
+2147,lol it just mean that they are smurfing,0,0,non_toxic,0.006665227003395557,0,False
+2151,me to,0,0,non_toxic,0.0034543341025710106,0,False
+2152,gj,0,0,non_toxic,0.0018499610014259815,0,False
+2153,dont push it J4,0,0,non_toxic,0.0010788228828459978,0,False
+2155,k,0,0,non_toxic,0.0029873403254896402,0,False
+2156,. .,0,0,non_toxic,0.00133579655084759,0,False
+2157,master yi help top master yi help top,0,0,non_toxic,0.010843389667570591,0,False
+2159,get behind minions,0,0,non_toxic,0.017023375257849693,0,False
+2160,Blue Team Blue buff will be respawn in 20 sec,0,0,non_toxic,0.0009854227537289262,0,False
+2161,gj top,0,0,non_toxic,0.0015666589606553316,0,False
+2162,--' wtf this fck lag,0,0,non_toxic,0.060165900737047195,0,False
+2165,tyh,0,0,non_toxic,0.00518312631174922,0,False
+2166,Inc bot,0,0,non_toxic,0.057070791721343994,0,False
+2167,HEAL,0,0,non_toxic,0.0013496108585968614,0,False
+2168,i pinged :&,0,0,non_toxic,0.001588492072187364,0,False
+2169,lol no one move gj,0,0,non_toxic,0.002710820874199271,0,False
+2172,why u go in wtf,0,0,toxic,0.6743378043174744,1,True
+2173,u saw him,0,0,non_toxic,0.011465386487543583,0,False
+2175,ty,0,0,non_toxic,0.003083755262196064,0,False
+2176,and u go fight ?,0,0,non_toxic,0.0014149595517665148,0,False
+2177,OO WTF MY COMP LAGG,0,0,non_toxic,0.06334871798753738,0,False
+2178,mia mid,0,0,non_toxic,0.004055807366967201,0,False
+2179,inc mid,0,0,non_toxic,0.009269729256629944,0,False
+2180,KAH ZIX COMING U KNEW IT,0,0,non_toxic,0.0012921852758154273,0,False
+2182,wp jax,0,0,non_toxic,0.02354750782251358,0,False
+2183,...... i cant,0,0,non_toxic,0.001979028107598424,0,False
+2184,dunno how u die for malza when u see him,0,0,non_toxic,0.005257888231426477,0,False
+2187,dude trynda stay near tower stop feed,0,0,non_toxic,0.004766154568642378,0,False
+2189,Blue Team Red buff will be respawn in 20 sec sorry ss^^ ss top Blue Team Blue buff will be respawn in 20 sec say ss mid^^,0,0,non_toxic,0.006065293215215206,0,False
+2195,i was base and i pinged,0,0,non_toxic,0.0011207013158127666,0,False
+2198,"Dash flash, how noob J4 u should have def mid",1,1,non_toxic,0.004002705216407776,0,True
+2200,OOM,0,0,non_toxic,0.001446214271709323,0,False
+2201,singal,0,0,non_toxic,0.006332221906632185,0,False
+2202,Map?,0,0,non_toxic,0.0008072489872574806,0,False
+2203,signal?,0,0,non_toxic,0.000853166391607374,0,False
+2204,Map?,0,0,non_toxic,0.0008072489872574806,0,False
+2205,im oom,0,0,non_toxic,0.006702247075736523,0,False
+2206,well gg,0,0,non_toxic,0.001658427412621677,0,False
+2207,Bait him trynda,0,0,non_toxic,0.020497245714068413,0,False
+2208,12vs 3 :O Blue Team Red buff will be respawn in 20 sec omg report mid no ss,0,0,non_toxic,0.001602724427357316,0,False
+2211,thx,0,0,non_toxic,0.004895342048257589,0,False
+2212,fun :D i spam ss all time when i leave mid,0,0,non_toxic,0.00256611336953938,0,False
+2216,omg omg feed,0,0,non_toxic,0.022655244916677475,0,False
+2218,gj malhazar,0,0,non_toxic,0.0015306401764973998,0,False
+2219,Purple Team Blue buff will be respawn in 20 sec,0,0,non_toxic,0.0016696325037628412,0,False
+2220,yourre annyoing jax i pinged again and u saw how he left mid we had vision lets go as 5 im strong dont throw this,0,0,non_toxic,0.024962324649095535,0,False
+2231,me have 5/0 a,0,0,non_toxic,0.001712172757834196,0,False
+2232,we can group up ja smthing tanky pls,0,0,non_toxic,0.0034400876611471176,0,False
+2236,noo!!!!!!!!!!!,0,0,non_toxic,0.010082121938467026,0,False
+2237,ok dont group then,0,0,non_toxic,0.0031186428386718035,0,False
+2241,ks,0,0,non_toxic,0.0034073051065206528,0,False
+2242,U_u,0,0,non_toxic,0.00114842236507684,0,False
+2243,sorry mnan,0,0,non_toxic,0.012307357974350452,0,False
+2244,thx i am ever died after you come help me,0,0,non_toxic,0.004919619765132666,0,False
+2245,BACK NOOB,1,1,non_toxic,0.004945544991642237,0,True
+2247,gj,0,0,non_toxic,0.0018499610014259815,0,False
+2248,gg Dragon will be respawn in 20 sec,0,0,non_toxic,0.0015499088913202286,0,False
+2250,jsut dont go to die alone keep going as team,0,0,non_toxic,0.016659507527947426,0,False
+2253,Trynda . . . cait . . . ur lane,0,0,non_toxic,0.0029313580598682165,0,False
+2256,u arre too deep alone jax all time dont go top anymore,0,0,non_toxic,0.004670785274356604,0,False
+2262,kha zix 2rage i report you sorry you chat and you rage!!!,0,0,non_toxic,0.009388318285346031,0,False
+2263,Sorak a... im fkin alone,0,0,non_toxic,0.19474749267101288,0,False
+2265,Blue Team Blue buff will be respawn in 20 sec,0,0,non_toxic,0.0009854227537289262,0,False
+2266,xD,0,0,non_toxic,0.006227454170584679,0,False
+2267,jarvan and cait no ult,0,0,non_toxic,0.005689326208084822,0,False
+2268,go kha,0,0,non_toxic,0.003535316325724125,0,False
+2269,kha you smurfing ?,0,0,non_toxic,0.003943820018321276,0,False
+2270,yo i am,0,0,non_toxic,0.0026136976666748524,0,False
+2272,sry,0,0,non_toxic,0.0025639128871262074,0,False
+2273,do yourself a favour and surr,0,0,non_toxic,0.004790652543306351,0,False
+2275,me2,0,0,non_toxic,0.0015226457035169005,0,False
+2276,0/8 trynda,0,0,non_toxic,0.0009695616899989545,0,False
+2277,not so high smurfing but its smurfing,0,0,non_toxic,0.002205406781286001,0,False
+2278,im plat 1 :D,0,0,non_toxic,0.0027265988755971193,0,False
+2280,worst players i ve seen in ranked gj,0,0,non_toxic,0.0012243575183674693,0,False
+2282,its not that high,0,0,non_toxic,0.0014278038870543242,0,False
+2283,me s1 :3,0,0,non_toxic,0.0010332782985642552,0,False
+2284,Blue Team Red buff will be respawn in 20 sec,0,0,non_toxic,0.0014694023411720991,0,False
+2285,:D,0,0,non_toxic,0.0024251381400972605,0,False
+2286,no finish pliz,0,0,non_toxic,0.0011372063308954239,0,False
+2287,move ur ass,0,0,toxic,0.9466375708580017,1,True
+2288,yes,0,0,non_toxic,0.0013870126567780972,0,False
+2289,tssss,0,0,non_toxic,0.027675408869981766,0,False
+2290,want my next promo game,0,0,non_toxic,0.0009082291508093476,0,False
+2291,gg,0,0,non_toxic,0.0022958621848374605,0,False
+2292,Gg,0,0,non_toxic,0.0022958621848374605,0,False
+2293,gg,0,0,non_toxic,0.0022958621848374605,0,False
+2294,that lucky,0,0,non_toxic,0.0019195444183424115,0,False
+2295,lol 2x barrier Yeah luck And hp Lucker,0,0,non_toxic,0.002270258031785488,0,False
+2299,dat gank,0,0,non_toxic,0.0015759395901113749,0,False
+2300,No dat luck,0,0,non_toxic,0.004431761801242828,0,False
+2301,omg we are so lucky,0,0,non_toxic,0.02067876048386097,0,False
+2302,DAT LUCK gg wp,0,0,non_toxic,0.014583242125809193,0,False
+2304,gg wp :),0,0,non_toxic,0.0017735494766384363,0,False
+2305,noobs ^^,1,1,non_toxic,0.01857191137969494,0,True
+2306,lol Ty for Q farm,0,0,non_toxic,0.0019633956253528595,0,False
+2308,GG LUCK,0,0,non_toxic,0.0014797920593991876,0,False
+2309,haha what does that say about you?,0,0,non_toxic,0.0016820832388475537,0,False
+2310,blue ez or normal? from?,0,0,non_toxic,0.0008500026306137443,0,False
+2312,i use smite,0,0,non_toxic,0.001385659328661859,0,False
+2313,k,0,0,non_toxic,0.0029873403254896402,0,False
+2314,ty,0,0,non_toxic,0.003083761315792799,0,False
+2315,shit tha pot -.-'',0,0,toxic,0.9430635571479797,1,True
+2318,:C,0,0,non_toxic,0.0013395892456173897,0,False
+2319,"so much lag again -.-""",0,0,non_toxic,0.0024548242799937725,0,False
+2320,mee too a bit,0,0,non_toxic,0.0069999792613089085,0,False
+2321,gj,0,0,non_toxic,0.0018499610014259815,0,False
+2322,noobs xD,1,1,non_toxic,0.00802035816013813,0,True
+2323,hahaha,0,0,non_toxic,0.0011923310812562704,0,False
+2324,um pouco.. mas nÃÂ³s fomos patos,0,0,non_toxic,0.026429222896695137,0,False
+2326,+/-,0,0,non_toxic,0.0012331095058470964,0,False
+2327,dont go that greedy,0,0,non_toxic,0.07404660433530807,0,False
+2328,sry,0,0,non_toxic,0.0025639128871262074,0,False
+2329,elisse relax,0,0,non_toxic,0.001543699181638658,0,False
+2331,okay,0,0,non_toxic,0.0010857374873012304,0,False
+2332,gj,0,0,non_toxic,0.0018499610014259815,0,False
+2333,sry,0,0,non_toxic,0.0025639128871262074,0,False
+2334,np,0,0,non_toxic,0.0009820051491260529,0,False
+2335,re,0,0,non_toxic,0.002599637024104595,0,False
+2336,~noobs,1,1,non_toxic,0.003218272002413869,0,True
+2337,thx,0,0,non_toxic,0.004895342048257589,0,False
+2338,np,0,0,non_toxic,0.0009820051491260529,0,False
+2339,ult,0,0,non_toxic,0.006442337296903133,0,False
+2340,oom,0,0,non_toxic,0.001446214271709323,0,False
+2341,yi ss,0,0,non_toxic,0.09319576621055603,0,False
+2342,ss,0,0,non_toxic,0.004126495216041803,0,False
+2343,1 hit no ez xD,0,0,non_toxic,0.00213631778024137,0,False
+2344,gj ryze,0,0,non_toxic,0.001806744490750134,0,False
+2345,omg,0,0,non_toxic,0.002510456833988428,0,False
+2346,WTFFF WHAT A CAMP,0,0,toxic,0.531300961971283,1,True
+2348,que merda..,0,0,non_toxic,0.0011970350751653314,0,False
+2349,WHANT A TEND?,0,0,non_toxic,0.005794114898890257,0,False
+2350,xD,0,0,non_toxic,0.006227454170584679,0,False
+2351,-.-,0,0,non_toxic,0.0013957860646769404,0,False
+2352,we would like some ganks bot lane.. yi is babysitting or u do something in the other lanes or u help bot,0,0,non_toxic,0.0077943275682628155,0,False
+2354,you push all time,0,0,non_toxic,0.006080080755054951,0,False
+2355,sry ez,0,0,non_toxic,0.0009906069608405232,0,False
+2356,ss,0,0,non_toxic,0.004126495216041803,0,False
+2357,omw,0,0,non_toxic,0.0025922043714672327,0,False
+2358,thx lol,0,0,non_toxic,0.007670827675610781,0,False
+2360,first time elise supp,0,0,non_toxic,0.0016505811363458633,0,False
+2361,^^,0,0,non_toxic,0.028537355363368988,0,False
+2362,trap there,0,0,non_toxic,0.0020346813835203648,0,False
+2364,oh..,0,0,non_toxic,0.001353433937765658,0,False
+2365,ss,0,0,non_toxic,0.004126495216041803,0,False
+2367,brb,0,0,non_toxic,0.0016737122787162662,0,False
+2368,oom,0,0,non_toxic,0.001446214271709323,0,False
+2369,lol too late yi,0,0,non_toxic,0.049313176423311234,0,False
+2371,okay..,0,0,non_toxic,0.0011457069776952267,0,False
+2372,why i tanked for u,0,0,non_toxic,0.002951227594166994,0,False
+2373,had no mana elise,0,0,non_toxic,0.001648734207265079,0,False
+2375,so dont go in,0,0,non_toxic,0.0026700254529714584,0,False
+2376,llol,0,0,non_toxic,0.0015010549686849117,0,False
+2377,why? xD,0,0,non_toxic,0.0033302558586001396,0,False
+2379,viste? lol,0,0,non_toxic,0.0012396370293572545,0,False
+2381,xD,0,0,non_toxic,0.006227454170584679,0,False
+2382,omg lissandra die :s,0,0,non_toxic,0.013503546826541424,0,False
+2385,ss bot 2,0,0,non_toxic,0.0035504084080457687,0,False
+2386,when is the nerf on yi?,0,0,non_toxic,0.012666654773056507,0,False
+2387,shit :o,0,0,toxic,0.9478015899658203,1,True
+2388,its just like the old yi.. just press R and Q i see no diference,0,0,non_toxic,0.041819311678409576,0,False
+2390,you like yourself talking huh?,0,0,non_toxic,0.001749787013977766,0,False
+2391,DRAKE,0,0,non_toxic,0.0024172028061002493,0,False
+2392,tresh talk?,0,0,non_toxic,0.0013454246800392866,0,False
+2393,sry lol dragon steal,0,0,non_toxic,0.06380116194486618,0,False
+2395,:D,0,0,non_toxic,0.0024251416325569153,0,False
+2396,nice steal,0,0,non_toxic,0.0040394277311861515,0,False
+2397,no ward XD,0,0,non_toxic,0.005042114295065403,0,False
+2398,forget ez u and elise are the fail bot lane of the year,1,1,non_toxic,0.0009583506616763771,0,True
+2399,lol hahaha,0,0,non_toxic,0.0017517878441140056,0,False
+2400,lissandra ?? ?ÃÂ§ !fight may be N ? *,0,0,non_toxic,0.004435946699231863,0,False
+2403,"im fighting, but i cant do nothing, sry",0,0,non_toxic,0.0024908871855586767,0,False
+2404,ffs mumu cant u click on the fking lantern??,1,1,non_toxic,0.005395273212343454,0,True
+2406,lissandra was with me. omg MY BAD i forgot the lantern fk me,1,1,non_toxic,0.02252320386469364,0,True
+2411,oh so much skill that yi,1,1,non_toxic,0.008458769880235195,0,True
+2412,cry more dude,1,1,non_toxic,0.025321858003735542,0,True
+2413,he pressed Q with so mcuh skill,1,1,non_toxic,0.001442787703126669,0,True
+2414,lol,0,0,non_toxic,0.0043085492216050625,0,False
+2415,gj madafaka,0,0,non_toxic,0.0020319856703281403,0,False
+2416,thresh talk again?,0,0,non_toxic,0.0011196774430572987,0,False
+2417,morde nobody talked to u :),0,0,non_toxic,0.012431939132511616,0,False
+2418,and you died with no honor,1,1,non_toxic,0.003623413620516658,0,True
+2419,to you neither,0,0,non_toxic,0.0022462743800133467,0,False
+2420,lol,0,0,non_toxic,0.0043085492216050625,0,False
+2421,that mumu,0,0,non_toxic,0.0010668305912986398,0,False
+2422,you are talking anyway,0,0,non_toxic,0.17315120995044708,0,False
+2423,ty,0,0,non_toxic,0.003083755262196064,0,False
+2424,together,0,0,non_toxic,0.001054237480275333,0,False
+2425,whait,0,0,non_toxic,0.04692624881863594,0,False
+2426,nerf,0,0,non_toxic,0.0031994436867535114,0,False
+2427,and cover me,0,0,non_toxic,0.0028910625260323286,0,False
+2428,pff,0,0,non_toxic,0.0036364549305289984,0,False
+2429,at leat we got the gold xD,0,0,non_toxic,0.0017087188316509128,0,False
+2430,well worthit 4 for 5 but we got baron,0,0,non_toxic,0.0010699975537136197,0,False
+2431,afk for a minute,0,0,non_toxic,0.0015028370544314384,0,False
+2432,brb getting giant belt im tankier than mumu xD,0,0,non_toxic,0.003449780633673072,0,False
+2434,PLS ONLY DEF,0,0,non_toxic,0.004322881810367107,0,False
+2435,wtf,0,0,toxic,0.9340910315513611,1,True
+2436,cover me,0,0,non_toxic,0.004651227500289679,0,False
+2437,elise top,0,0,non_toxic,0.0016069908160716295,0,False
+2438,this is a long minute,0,0,non_toxic,0.0036983764730393887,0,False
+2439,what are doing top then?,0,0,non_toxic,0.0016254986403509974,0,False
+2440,i will report him soon,0,0,non_toxic,0.0015544566558673978,0,False
+2441,good job...,0,0,non_toxic,0.0010445973603054881,0,False
+2442,stuck in minion,0,0,non_toxic,0.001914288615807891,0,False
+2443,ez we lost this because of you longest minute ever,1,1,non_toxic,0.0028936616145074368,0,True
+2445,push mid and bot after drake,0,0,non_toxic,0.003613895270973444,0,False
+2446,is it lost? no,0,0,non_toxic,0.0017351940041407943,0,False
+2447,we lost 2 towers,0,0,non_toxic,0.0014870442682877183,0,False
+2448,so lets take tem,0,0,non_toxic,0.0011879315134137869,0,False
+2449,dont fight let me farm to get sunfire,0,0,non_toxic,0.0022744969464838505,0,False
+2450,cover me!,0,0,non_toxic,0.002987067913636565,0,False
+2451,go,0,0,non_toxic,0.003624598030000925,0,False
+2452,OMG,0,0,non_toxic,0.002510456833988428,0,False
+2453,xD,0,0,non_toxic,0.006227454170584679,0,False
+2454,QRQRQRQRQ,0,0,non_toxic,0.00083772192010656,0,False
+2455,see just like the old yi,0,0,non_toxic,0.07855957746505737,0,False
+2456,hahaha,0,0,non_toxic,0.0011923310812562704,0,False
+2457,BACKDOOR BACKDOO,0,0,non_toxic,0.005464216694235802,0,False
+2459,u dont know how to focus :D,0,0,non_toxic,0.0011433105682954192,0,False
+2460,does ur fingers hurt for pressing Q+R so fast??,0,0,non_toxic,0.0009600468911230564,0,False
+2461,ELISE BOT,0,0,non_toxic,0.002653985982760787,0,False
+2462,ofc noob champ,1,1,non_toxic,0.001996243605390191,0,True
+2463,amu is op and tresh stfu,1,1,non_toxic,0.0038951446767896414,0,True
+2464,im tankier than a madafaca,0,0,non_toxic,0.011051910929381847,0,False
+2465,we have no  vision,0,0,non_toxic,0.0033295471221208572,0,False
+2466,LETS TRY TO DONT LOSE A TF LIKE THAT ALL FIVE IN GROUP OR DONT GO,0,0,non_toxic,0.00410378398373723,0,False
+2468,ok,0,0,non_toxic,0.006915004923939705,0,False
+2469,we can try to do baron and then teamfight,0,0,non_toxic,0.0012150064576417208,0,False
+2470,--- hp,0,0,non_toxic,0.0015218259068205953,0,False
+2471,--- armor --- rm 3k---,0,0,non_toxic,0.0012728699948638678,0,False
+2472,ulti liss,0,0,non_toxic,0.04145998880267143,0,False
+2473,lissandra no ulti ?,0,0,non_toxic,0.0030630992259830236,0,False
+2474,SS JAX BOT,0,0,non_toxic,0.02022760547697544,0,False
+2475,jax backdoor was easy there yh,0,0,non_toxic,0.0022500704508274794,0,False
+2477,ok,0,0,non_toxic,0.006915001664310694,0,False
+2478,lol open nexus :C,0,0,non_toxic,0.0012025898322463036,0,False
+2479,check,0,0,non_toxic,0.0012350655160844326,0,False
+2480,go all,0,0,non_toxic,0.007997279986739159,0,False
+2481,dotn lose this,0,0,non_toxic,0.00567222572863102,0,False
+2482,nbb,0,0,non_toxic,0.0018229957204312086,0,False
+2483,gj nice fight,0,0,non_toxic,0.001460781553760171,0,False
+2484,cause we have no teamplay,0,0,non_toxic,0.0014996720710769296,0,False
+2485,okay this is the lose,0,0,non_toxic,0.004736645612865686,0,False
+2486,GG WP,0,0,non_toxic,0.010278920643031597,0,False
+2487,wp,0,0,non_toxic,0.016296880319714546,0,False
+2488,wp,0,0,non_toxic,0.016296880319714546,0,False
+2489,wp,0,0,non_toxic,0.016296880319714546,0,False
+2490,gg,0,0,non_toxic,0.0022958621848374605,0,False
+2491,GG noob yi,1,1,non_toxic,0.01518858503550291,0,True
+2492,go go,0,0,non_toxic,0.009049280546605587,0,False
+2493,they are trolling as fuck,1,1,toxic,0.9510650634765625,1,False
+2494,u take one creep i leave,0,0,non_toxic,0.017364203929901123,0,False
+2495,"full ad, even ahri took ad runes",0,0,non_toxic,0.0025512813590466976,0,False
+2496,wtf...,0,0,non_toxic,0.4205840826034546,0,False
+2497,zyra?,0,0,non_toxic,0.0017529031028971076,0,False
+2498,dont understimate them,0,0,non_toxic,0.027144815772771835,0,False
+2499,are you fucking retarded?!,1,1,toxic,0.9611179828643799,1,False
+2500,anycase,0,0,non_toxic,0.009273523464798927,0,False
+2501,why no wards?,0,0,non_toxic,0.00147903838660568,0,False
+2502,split the cs and its k,0,0,non_toxic,0.0010977236088365316,0,False
+2504,cause i felt like shield,0,0,non_toxic,0.0014977110549807549,0,False
+2505,dont join soloq if you are not ready to support kids,1,1,non_toxic,0.002086671069264412,0,True
+2506,"Goddamn, unbehavied, umature kids these days",1,1,toxic,0.9575401544570923,1,False
+2507,awesome :),0,0,non_toxic,0.0008664052584208548,0,False
+2508,whyd ont we steal xD,0,0,non_toxic,0.03625112771987915,0,False
+2511,g o our blue,0,0,non_toxic,0.0010629578027874231,0,False
+2512,u are both reported,0,0,non_toxic,0.0010360665619373322,0,False
+2513,go back,0,0,non_toxic,0.006040995940566063,0,False
+2514,"Quinn, you're reported",0,0,non_toxic,0.0016342835733667016,0,False
+2515,luician need item,0,0,non_toxic,0.0016853195847943425,0,False
+2516,just as vayne for your atiddude in cs & game,0,0,non_toxic,0.0019045823719352484,0,False
+2518,k,0,0,non_toxic,0.0029873403254896402,0,False
+2519,got no flash ill play safe mid now care plox,0,0,non_toxic,0.002190565224736929,0,False
+2522,just win it its very easy and enough with qq...,0,0,non_toxic,0.0009926900966092944,0,False
+2523,till 6 atleast,0,0,non_toxic,0.001260361517779529,0,False
+2524,vayne use flash bartrier no?,0,0,non_toxic,0.002687056316062808,0,False
+2525,"report vayne for afk,and quin for trolling",1,1,non_toxic,0.002491832710802555,0,True
+2526,y,0,0,non_toxic,0.004600492771714926,0,False
+2527,xDD,0,0,non_toxic,0.0031281954143196344,0,False
+2528,vayne... dont afk pls wtf.. pls...,0,0,non_toxic,0.17916958034038544,0,False
+2533,lets just let them finish it k afk,0,0,non_toxic,0.0017474472988396883,0,False
+2537,wp teemo,0,0,non_toxic,0.008132985793054104,0,False
+2538,let them finish let them puysh mid,0,0,non_toxic,0.04215988889336586,0,False
+2540,double buff hue hue,0,0,non_toxic,0.01734311319887638,0,False
+2541,im undertower,0,0,non_toxic,0.00514459703117609,0,False
+2542,is this fucking possible...troll pick then afk,1,1,toxic,0.9197575449943542,1,False
+2543,mdeah,0,0,non_toxic,0.002525100251659751,0,False
+2544,this is dia solo q,0,0,non_toxic,0.0025158345233649015,0,False
+2545,so if u die in jungle its other ppl fault :),0,0,non_toxic,0.03357614949345589,0,False
+2548,i wont play 4v5,0,0,non_toxic,0.0010504613164812326,0,False
+2549,k,0,0,non_toxic,0.0029873403254896402,0,False
+2550,sorry,0,0,non_toxic,0.0020529343746602535,0,False
+2551,printed,0,0,non_toxic,0.0013651313493028283,0,False
+2552,no flash ahri,0,0,non_toxic,0.0018351140897721052,0,False
+2553,you are printed lol so funny xD,0,0,non_toxic,0.012799571268260479,0,False
+2555,the worst reason is afk,0,0,non_toxic,0.033922962844371796,0,False
+2557,what?,0,0,non_toxic,0.0013673603534698486,0,False
+2558,im adc on my lane vayne is afk gl and hf cya,0,0,non_toxic,0.0044463318772614,0,False
+2562,we rape her when im 6,1,1,toxic,0.5075284242630005,1,False
+2564,you are troll,0,0,toxic,0.9589667916297913,1,True
+2565,"lol, trynd took 5 potions =d",0,0,non_toxic,0.00429695937782526,0,False
+2566,shut the fuck up already go mid push,0,0,toxic,0.9512124061584473,1,True
+2568,guys push mid,0,0,non_toxic,0.002526204101741314,0,False
+2569,will do,0,0,non_toxic,0.002133229747414589,0,False
+2570,report vayne and lee for afk,0,0,non_toxic,0.0014168079942464828,0,False
+2571,rofl :D,0,0,non_toxic,0.003762406064197421,0,False
+2572,gl and hf,0,0,non_toxic,0.002649865346029401,0,False
+2573,this is dia solo q,0,0,non_toxic,0.0025158345233649015,0,False
+2574,sorry my keyboard bugged ffs,0,0,non_toxic,0.008418316952884197,0,False
+2576,"report quin and vaayne for trolling,push mid",0,0,non_toxic,0.007491532247513533,0,False
+2577,sure xDDD,0,0,non_toxic,0.0023141703568398952,0,False
+2578,wat,0,0,non_toxic,0.007503269240260124,0,False
+2579,u could have helped ahri and trynd,0,0,non_toxic,0.001291369553655386,0,False
+2581,"ffs, let me have my normal laning",0,0,non_toxic,0.006356304977089167,0,False
+2582,let them finish mate,0,0,non_toxic,0.006248456425964832,0,False
+2583,easy carry for them,0,0,non_toxic,0.0011345196980983019,0,False
+2584,youre reported quinn stop talking,0,0,non_toxic,0.0023308463860303164,0,False
+2586,we are wasting time,0,0,non_toxic,0.010629810392856598,0,False
+2587,really,0,0,non_toxic,0.0015636166790500283,0,False
+2588,d?,0,0,non_toxic,0.0015912229428067803,0,False
+2589,im playing youre not thats worse and u will see :),0,0,non_toxic,0.004714228678494692,0,False
+2591,why so agressive,0,0,non_toxic,0.0014785652747377753,0,False
+2592,I'm playing all game,0,0,non_toxic,0.0008150672656483948,0,False
+2594,u were afk 2 now,0,0,non_toxic,0.00105659116525203,0,False
+2595,youre the troll,0,0,toxic,0.9537574648857117,1,True
+2596,like i said u will see i was quinn support vayne afk not my fault,0,0,non_toxic,0.0028564336244016886,0,False
+2600,lol you said,0,0,non_toxic,0.003706106450408697,0,False
+2602,i play support what i waint,0,0,non_toxic,0.010128526948392391,0,False
+2603,in cs quote: adc or afk,0,0,non_toxic,0.0009902229066938162,0,False
+2605,i wasnt afk,0,0,non_toxic,0.0012967372313141823,0,False
+2606,another quote: 6 words,0,0,non_toxic,0.0015736619243398309,0,False
+2607,now u are,0,0,non_toxic,0.002148462925106287,0,False
+2608,yeah you picked adc when we had one and siad you dont care fuck off,1,1,toxic,0.914975106716156,1,False
+2612,he instantlock,0,0,non_toxic,0.0035207089968025684,0,False
+2613,so youre reported,0,0,non_toxic,0.0020064800046384335,0,False
+2614,ignore that quin already lol,0,0,non_toxic,0.0019140143413096666,0,False
+2616,he said i didnt said idc cya,0,0,non_toxic,0.007378792855888605,0,False
+2619,push hella mid pls,0,0,non_toxic,0.049300048500299454,0,False
+2620,i love 2 put this on furm,0,0,non_toxic,0.010439492762088776,0,False
+2621,youre disgusting,1,1,toxic,0.9595370888710022,1,False
+2622,another printed afk,0,0,non_toxic,0.0035878990311175585,0,False
+2623,rarely seen someone trolling so badly,0,0,non_toxic,0.007516981568187475,0,False
+2625,guys come mid,0,0,non_toxic,0.0019749675411731005,0,False
+2626,claiming he's not,0,0,non_toxic,0.004885310772806406,0,False
+2627,go finish,0,0,non_toxic,0.0010344499023631215,0,False
+2628,its so annoying.. thought it would stop in dia,0,0,non_toxic,0.021097639575600624,0,False
+2630,"trynda, make sure to report both",0,0,non_toxic,0.0010247071040794253,0,False
+2631,wp lol,0,0,non_toxic,0.017232291400432587,0,False
+2633,nice friend,0,0,non_toxic,0.0012524859048426151,0,False
+2634,such a scumbag,1,1,toxic,0.9614295959472656,1,False
+2635,yep That was the plan,0,0,non_toxic,0.0009518525330349803,0,False
+2637,pushm id and u def,0,0,non_toxic,0.015653256326913834,0,False
+2638,now its easy for us 2 mid,0,0,non_toxic,0.001010310952551663,0,False
+2639,teemo and akali can u go mid,0,0,non_toxic,0.002122943988069892,0,False
+2641,they lost 2 much all 5 mid,0,0,non_toxic,0.002481398405507207,0,False
+2642,''go push mid'' defends with 5 people,0,0,non_toxic,0.005042587406933308,0,False
+2643,Ive never asked to,0,0,non_toxic,0.0016525835962966084,0,False
+2644,wasnt talking to you,0,0,non_toxic,0.0035357098095119,0,False
+2645,Our lastpikc (quinn),0,0,non_toxic,0.0008952163625508547,0,False
+2646,no,0,0,non_toxic,0.0029323964845389128,0,False
+2647,"Told us in cs, he's gonna ad or afk",0,0,non_toxic,0.0019018485909327865,0,False
+2648,dont talk i dont care come mid all,0,0,non_toxic,0.002949934219941497,0,False
+2652,cant believe that theres still people trolling,0,0,non_toxic,0.003948642406612635,0,False
+2654,1 5 afkers in the past 2 days,0,0,non_toxic,0.0008898268570192158,0,False
+2656,u qq,0,0,non_toxic,0.001179262762889266,0,False
+2657,"nothing special, lol community",0,0,non_toxic,0.002098045079037547,0,False
+2658,and it was a free win,0,0,non_toxic,0.0009399769478477538,0,False
+2659,i play for skill not for elo,0,0,non_toxic,0.0013223937712609768,0,False
+2660,i'm d1 lol,0,0,non_toxic,0.0015235382597893476,0,False
+2661,then your mmr is shit,0,0,toxic,0.9366434812545776,1,True
+2662,"+ he is acting like he is not trolling,and wanting to rpeort all of us",0,0,non_toxic,0.03324613347649574,0,False
+2663,and i wont tolerate scums like this quinn,1,1,toxic,0.9268614649772644,1,False
+2664,your is nothing better lol you could join with this quin aswelll,1,1,non_toxic,0.007749674841761589,0,True
+2666,stop qqing please,1,1,non_toxic,0.006387231405824423,0,True
+2667,Im not qqing,1,1,non_toxic,0.0036236492451280355,0,True
+2668,yeah they did...,0,0,non_toxic,0.0019923315849155188,0,False
+2669,i knew ill lose,0,0,non_toxic,0.005991894751787186,0,False
+2670,you are though,0,0,non_toxic,0.0028326937463134527,0,False
+2671,all game,0,0,non_toxic,0.0008384430548176169,0,False
+2673,io was --- s1 & was playing with --- at morning games piece of shit this que,1,1,non_toxic,0.18105679750442505,0,True
+2675,I'm d1,0,0,non_toxic,0.000970968627370894,0,False
+2676,and?,0,0,non_toxic,0.0011595400283113122,0,False
+2677,u dont listen its a easy win still,0,0,non_toxic,0.0014161634026095271,0,False
+2678,xd,0,0,non_toxic,0.006227454170584679,0,False
+2679,your mmr is shit  so you get matched up with d3/d d2,0,0,toxic,0.6789112091064453,1,True
+2681,they lost 2 much look at items,0,0,non_toxic,0.0014237900031730533,0,False
+2683,why are we split just get another hinhib please,0,0,non_toxic,0.010366504080593586,0,False
+2685,dunno akali and teemo wont finish,0,0,non_toxic,0.0009107891237363219,0,False
+2687,"well, ive lost several games due to trolls in the last few days",0,0,non_toxic,0.007122595328837633,0,False
+2688,dont get why teemo's top,0,0,non_toxic,0.0035518170334398746,0,False
+2689,cause trynd is top too ?,0,0,non_toxic,0.0016732821241021156,0,False
+2690,40 lp to 1,0,0,non_toxic,0.0008296721498481929,0,False
+2691,and again lee afk,0,0,non_toxic,0.0019409115193411708,0,False
+2692,trynda will finish or?,0,0,non_toxic,0.0009888418717309833,0,False
+2693,so?,0,0,non_toxic,0.0011026988504454494,0,False
+2694,chat more,0,0,non_toxic,0.0025661280378699303,0,False
+2695,come bot and finish,0,0,non_toxic,0.00116681307554245,0,False
+2696,stop cry,1,1,non_toxic,0.029261652380228043,0,True
+2697,shut up,1,1,toxic,0.9300283193588257,1,False
+2698,same here ahri.. was dia 1 and got 3 times in a row the same guy with several accounts who trolled me,0,0,non_toxic,0.010958097875118256,0,False
+2703,this ahri with d1 and his lovecharms :),0,0,non_toxic,0.0021138901356607676,0,False
+2704,what is he flaming me :D? whaaaaat,0,0,non_toxic,0.4926230013370514,0,False
+2707,its clearly they wana lose easy for me for me 2 post on forums...the afk and losing on purpose gg wp,0,0,non_toxic,0.001582442899234593,0,False
+2709,ggwp,0,0,non_toxic,0.0016914408188313246,0,False
+2710,rly gg!!!!!,0,0,non_toxic,0.001566772349178791,0,False
+2711,report pls,0,0,non_toxic,0.0012876923428848386,0,False
+2712,gg!,0,0,non_toxic,0.003051408566534519,0,False
+2713,ggwp,0,0,non_toxic,0.0016914408188313246,0,False
+2714,swain can you ward here?,0,0,non_toxic,0.002264531096443534,0,False
+2716,y,0,0,non_toxic,0.004600492771714926,0,False
+2717,so I can see when Vi goes red,0,0,non_toxic,0.00108927336987108,0,False
+2718,If you guys have a pushed lane or really need a gank then call it Then I will come as fast as possible btw I smite blue,0,0,non_toxic,0.0016702453140169382,0,False
+2721,ofc u do,0,0,non_toxic,0.0016606600256636739,0,False
+2722,we will leave at ---,0,0,non_toxic,0.0014346978859975934,0,False
+2723,np,0,0,non_toxic,0.0009820051491260529,0,False
+2724,ty,0,0,non_toxic,0.003083755262196064,0,False
+2725,gj,0,0,non_toxic,0.0018499610014259815,0,False
+2726,Lee in my jungle -.- srsly,0,0,non_toxic,0.017714621499180794,0,False
+2728,no ward,0,0,non_toxic,0.004158316645771265,0,False
+2729,mmhhhh dat tresh mhhhh,0,0,non_toxic,0.004695850890129805,0,False
+2731,free gank top,0,0,non_toxic,0.0010705552995204926,0,False
+2732,Our blue will soon be rdy I go locket too,0,0,non_toxic,0.0024006380699574947,0,False
+2734,ty,0,0,non_toxic,0.003083755262196064,0,False
+2735,lol,0,0,non_toxic,0.0043085492216050625,0,False
+2736,wtf lee wut WUT,0,0,toxic,0.9470754265785217,1,True
+2740,gjNida,0,0,non_toxic,0.0015760072274133563,0,False
+2741,ty u2,0,0,non_toxic,0.03304973244667053,0,False
+2742,cya,0,0,non_toxic,0.0015939668519422412,0,False
+2743,I'll camp mid,0,0,non_toxic,0.0011453022016212344,0,False
+2744,mfw,0,0,non_toxic,0.0012754927156493068,0,False
+2745,really?,0,0,non_toxic,0.0012399123515933752,0,False
+2746,this ezreal,0,0,non_toxic,0.0013396285939961672,0,False
+2747,ezreal?,0,0,non_toxic,0.0008535652887076139,0,False
+2748,can you please just attack him,0,0,non_toxic,0.030418025329709053,0,False
+2749,fuckin hooked u mong,1,1,toxic,0.9311951398849487,1,False
+2751,that was close,0,0,non_toxic,0.0009587223757989705,0,False
+2752,im hooked,0,0,non_toxic,0.11311269551515579,0,False
+2753,you are level 5 thats all I see,0,0,non_toxic,0.001947625307366252,0,False
+2755,yea i am,0,0,non_toxic,0.0010815482819452882,0,False
+2756,whats your next item gonna be elder lizard? tear?,0,0,non_toxic,0.0048675742000341415,0,False
+2759,stfu,1,1,non_toxic,0.007374700624495745,0,True
+2760,lee inc mid,0,0,non_toxic,0.012328718788921833,0,False
+2761,hold mid need back,0,0,non_toxic,0.0012213384034112096,0,False
+2763,what is gp,0,0,non_toxic,0.005436922423541546,0,False
+2766,gp bot push top,0,0,non_toxic,0.002659884048625827,0,False
+2768,doing here,0,0,non_toxic,0.0015607316745445132,0,False
+2770,i pinged,0,0,non_toxic,0.0027931821532547474,0,False
+2771,--- d,0,0,non_toxic,0.0017498784000054002,0,False
+2772,oom,0,0,non_toxic,0.001446214271709323,0,False
+2773,lol,0,0,non_toxic,0.0043085492216050625,0,False
+2774,gg swain wow,0,0,non_toxic,0.006112381815910339,0,False
+2776,oh god ez ez ur not really plat arent u,0,0,non_toxic,0.0014261838514357805,0,False
+2778,dont talk,0,0,non_toxic,0.0020264459308236837,0,False
+2779,was this warded all along?,0,0,non_toxic,0.0009892154484987259,0,False
+2780,u and ur premade taric,0,0,non_toxic,0.012764228507876396,0,False
+2781,ur free to admit,0,0,non_toxic,0.00293860025703907,0,False
+2782,mhm,0,0,non_toxic,0.00649777427315712,0,False
+2783,why u engage that vi?,0,0,non_toxic,0.001455394085496664,0,False
+2784,need back care,0,0,non_toxic,0.0025593391619622707,0,False
+2785,gj,0,0,non_toxic,0.0018499610014259815,0,False
+2786,y it was,0,0,non_toxic,0.0011776663595810533,0,False
+2787,bt rdy,0,0,non_toxic,0.0012185293016955256,0,False
+2789,--- d,1,1,non_toxic,0.0017498784000054002,0,True
+2790,isuck :(,0,0,non_toxic,0.0067388941533863544,0,False
+2791,mhm,0,0,non_toxic,0.00649777427315712,0,False
+2792,drag free go for it you can solo it np,0,0,non_toxic,0.0014133078511804342,0,False
+2796,dat swain worst timing for me :c,0,0,non_toxic,0.01991703361272812,0,False
+2798,gankplank next time give me that kill or we lose,0,0,non_toxic,0.049419108778238297,0,False
+2800,nah he needs more damage and less survivability,0,0,non_toxic,0.003343303920701146,0,False
+2803,ez damage is so op pls nerf,0,0,non_toxic,0.0014218430733308196,0,False
+2805,ez what ?,0,0,non_toxic,0.001083828741684556,0,False
+2806,plz nerf flaming premades ty,0,0,non_toxic,0.005504254717379808,0,False
+2807,:D,0,0,non_toxic,0.0024251416325569153,0,False
+2808,since when is it so hard to play ezreal?,0,0,non_toxic,0.0010108520509675145,0,False
+2809,the harder patch made it harder,0,0,non_toxic,0.0011034113122150302,0,False
+2810,"well, since the thresh is doing ---dmg per autottack lvl 1",0,0,non_toxic,0.0011887652799487114,0,False
+2811,and i was 1v2 bot lane cuz taric played great,0,0,non_toxic,0.0016142320819199085,0,False
+2812,mfw you did nothing,0,0,non_toxic,0.006616150960326195,0,False
+2814,cba explain,0,0,non_toxic,0.0008170214714482427,0,False
+2815,baron guys come,0,0,non_toxic,0.0019889550749212503,0,False
+2818,cba to even think about it,0,0,non_toxic,0.0011257376754656434,0,False
+2819,np,0,0,non_toxic,0.0009820051491260529,0,False
+2820,you did a terrible job and now you're blaming taric. where's your triforce? you planning on AAÃÂ­ng them to death?,0,0,non_toxic,0.011241549625992775,0,False
+2823,ignored,0,0,non_toxic,0.0016763644525781274,0,False
+2824,u have a no dmg build ez,0,0,non_toxic,0.0031792495865374804,0,False
+2826,no dmg build?,0,0,non_toxic,0.0015031812945380807,0,False
+2827,just useless,1,1,toxic,0.9575865864753723,1,False
+2828,they got baron,0,0,non_toxic,0.002662030281499028,0,False
+2829,yea ok,0,0,non_toxic,0.0021128621883690357,0,False
+2830,your build should have been achieved about 10 minutes ago,0,0,non_toxic,0.0014648211654275656,0,False
+2833,why 4v5?,0,0,non_toxic,0.0009383770520798862,0,False
+2834,cuz we were dumb happens srr see planned all planed,0,0,toxic,0.8248456716537476,1,True
+2841,Give Penta+,0,0,non_toxic,0.001064332784153521,0,False
+2842,cmon give it to her,0,0,non_toxic,0.002134127076715231,0,False
+2844,Noob GP,1,1,non_toxic,0.003568332875147462,0,True
+2845,skumbag.,1,1,non_toxic,0.22163346409797668,0,True
+2846,she deserved it :P,0,0,non_toxic,0.0057724881917238235,0,False
+2847,this ez build needs a report,1,1,non_toxic,0.0011715947184711695,0,True
+2848,Mad because he is going to lose,0,0,non_toxic,0.01660444773733616,0,False
+2849,we're outscaling them,0,0,non_toxic,0.006539097521454096,0,False
+2850,this buildorder reported,0,0,non_toxic,0.0010376627324149013,0,False
+2852,:D,0,0,non_toxic,0.0024251381400972605,0,False
+2853,to steal swain blue is freelose,0,0,non_toxic,0.012645580805838108,0,False
+2855,kk,0,0,non_toxic,0.002828971017152071,0,False
+2856,--- baron,0,0,non_toxic,0.001475716708227992,0,False
+2857,omg,0,0,non_toxic,0.00251045566983521,0,False
+2858,got lw,0,0,non_toxic,0.0017611468210816383,0,False
+2859,gg,0,0,non_toxic,0.0022958621848374605,0,False
+2860,focus the tank more,0,0,non_toxic,0.0008897467632777989,0,False
+2861,ez even hitting minions in fight,0,0,non_toxic,0.0012978059239685535,0,False
+2862,lol minions ofc,0,0,non_toxic,0.004121395759284496,0,False
+2863,thats why he has op farm,0,0,non_toxic,0.0019844945054501295,0,False
+2864,bg wp,0,0,non_toxic,0.012689413502812386,0,False
+2865,gg wp,0,0,non_toxic,0.010278920643031597,0,False
+2866,ggwp,0,0,non_toxic,0.0016914416337385774,0,False
+2867,gG,0,0,non_toxic,0.0022958621848374605,0,False
+2868,gg,0,0,non_toxic,0.0022958621848374605,0,False
+2869,ur premade,0,0,non_toxic,0.0023873457685112953,0,False
+2870,kinda toxic game,0,0,non_toxic,0.0009581421036273241,0,False
+2871,imba,0,0,non_toxic,0.01438846904784441,0,False
+2872,shaco,0,0,non_toxic,0.002514318795874715,0,False
+2873,maybe kha mid?,0,0,non_toxic,0.0012351443292573094,0,False
+2874,?,0,0,non_toxic,0.0011013058247044683,0,False
+2875,u go for 3 minute double,0,0,non_toxic,0.0012554521672427654,0,False
+2879,or shaco cap mid,0,0,non_toxic,0.0010031502461060882,0,False
+2880,buff ?,0,0,non_toxic,0.007389158941805363,0,False
+2882,y,0,0,non_toxic,0.004600492771714926,0,False
+2883,can  you ward my blue,0,0,non_toxic,0.0013099049683660269,0,False
+2884,but need bot lane,0,0,non_toxic,0.0012987153604626656,0,False
+2885,just a ghost ward at 1 min,0,0,non_toxic,0.0043074688874185085,0,False
+2886,Sure,0,0,non_toxic,0.0011028910521417856,0,False
+2887,janna be careful with your ult because of kennen but i think you kno,0,0,non_toxic,0.002360394923016429,0,False
+2888,where should i pull,0,0,non_toxic,0.00478157214820385,0,False
+2889,help,0,0,non_toxic,0.0011621242156252265,0,False
+2890,red or blue,0,0,non_toxic,0.0008912392659112811,0,False
+2893,pull red adn i take blue 3 boxes ok?,0,0,non_toxic,0.0009225888643413782,0,False
+2896,jack in the box,0,0,non_toxic,0.005659489892423153,0,False
+2897,ok place,0,0,non_toxic,0.0013212217018008232,0,False
+2899,why not,0,0,non_toxic,0.0020203248132020235,0,False
+2900,next on 30,0,0,non_toxic,0.0011171427322551608,0,False
+2903,manfred in the box?,0,0,non_toxic,0.0010904611553996801,0,False
+2904,wb^^,0,0,non_toxic,0.01220904104411602,0,False
+2905,sry client bug,0,0,non_toxic,0.008726179599761963,0,False
+2907,ty,0,0,non_toxic,0.003083755262196064,0,False
+2908,i come,0,0,non_toxic,0.0017539922846481204,0,False
+2909,omfg,0,0,non_toxic,0.0017076925141736865,0,False
+2910,man,0,0,non_toxic,0.007709445431828499,0,False
+2911,gj,0,0,non_toxic,0.0018499610014259815,0,False
+2912,the saves,0,0,non_toxic,0.001178508042357862,0,False
+2913,gj mate,0,0,non_toxic,0.0029269782826304436,0,False
+2914,u2,0,0,non_toxic,0.011727587319910526,0,False
+2915,double buff^^,0,0,non_toxic,0.31287768483161926,0,False
+2916,its ok dont camp ne,0,0,non_toxic,0.0040765018202364445,0,False
+2919,gank,0,0,non_toxic,0.0012476876145228744,0,False
+2920,me *,0,0,non_toxic,0.05975330248475075,0,False
+2922,shaco gank top,0,0,non_toxic,0.0009736333158798516,0,False
+2924,bot is fine,0,0,non_toxic,0.007502324879169464,0,False
+2925,gank kenen out bufs out cc,0,0,non_toxic,0.0031397708225995302,0,False
+2926,i 4 secodn and deat,0,0,non_toxic,0.00842912308871746,0,False
+2927,its lose time,0,0,non_toxic,0.0016297664260491729,0,False
+2928,go back shaco is here,0,0,non_toxic,0.006681321654468775,0,False
+2930,wards gone care damn,0,0,toxic,0.9519799947738647,1,True
+2933,team stop death,0,0,non_toxic,0.003954810090363026,0,False
+2934,gj malz,0,0,non_toxic,0.002064991742372513,0,False
+2935,0-3,0,0,non_toxic,0.0008904972928576171,0,False
+2936,u2 mate,0,0,non_toxic,0.024572297930717468,0,False
+2937,we handle bot just malza,0,0,non_toxic,0.007309490814805031,0,False
+2939,blue up,0,0,non_toxic,0.00161433732137084,0,False
+2940,blue,0,0,non_toxic,0.0008926832233555615,0,False
+2941,doesnt expect ult =/,0,0,non_toxic,0.0024171178229153156,0,False
+2942,i can get it alone,0,0,non_toxic,0.001323350123129785,0,False
+2943,ty,0,0,non_toxic,0.003083755262196064,0,False
+2944,gj,0,0,non_toxic,0.0018499610014259815,0,False
+2945,surrend at 20 for inutil shaco and i write mid,0,0,non_toxic,0.00160143559332937,0,False
+2947,stfu kha,1,1,non_toxic,0.00490825530141592,0,True
+2948,and no middd and diana lose mid gj easy kennen !,0,0,non_toxic,0.002906838897615671,0,False
+2951,i lose ?,0,0,non_toxic,0.0015680708456784487,0,False
+2953,report kha negative attitude,0,0,non_toxic,0.0011522674467414618,0,False
+2955,visit u score adn u farm vs farm adn score malz,0,0,non_toxic,0.0015520037850365043,0,False
+2957,--- 0-1 u just mad cause u lose against kennen,0,0,non_toxic,0.004005877301096916,0,False
+2963,why the fuck i cant move,0,0,toxic,0.9466938972473145,1,True
+2964,dunno,0,0,non_toxic,0.0013219291577115655,0,False
+2965,gj diana,0,0,non_toxic,0.0020032303873449564,0,False
+2966,no smite,0,0,non_toxic,0.006751005072146654,0,False
+2967,u pro mid,0,0,non_toxic,0.0016011518891900778,0,False
+2968,10s,0,0,non_toxic,0.002371221547946334,0,False
+2969,lol :D,0,0,non_toxic,0.0048788171261549,0,False
+2971,gj,0,0,non_toxic,0.0018499610014259815,0,False
+2972,--- d,0,0,non_toxic,0.0017498784000054002,0,False
+2973,shaco top,0,0,non_toxic,0.0016064881347119808,0,False
+2974,and are last pick can counter kenen and chek,0,0,non_toxic,0.0010235441150143743,0,False
+2976,just ignore him,0,0,non_toxic,0.031832993030548096,0,False

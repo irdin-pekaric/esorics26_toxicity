@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Toxicity Scanner</title>
+    <style>
+      body { font: 13px/1.45 system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, "Helvetica Neue", Arial, "Noto Sans", "Apple Color Emoji", "Segoe UI Emoji"; margin: 12px; width: 320px; }
+      .row { display: flex; align-items: center; gap: 8px; margin: 8px 0; }
+      .progress { position: relative; height: 8px; background: #eee; border-radius: 999px; overflow: hidden; }
+      .bar { position: absolute; left: 0; top: 0; bottom: 0; width: 0%; background: #4f46e5; }
+      .meta { display: flex; justify-content: space-between; color: #555; margin-top: 6px; }
+      button { padding: 6px 10px; border-radius: 8px; border: 1px solid #ddd; background: #fafafa; cursor: pointer; }
+      button:hover { background: #f2f2f2; }
+      #hits { font-weight: 600; cursor: pointer; }
+      .nav { display: flex; gap: 6px; }
+      small { color: #777; }
+    </style>
+  </head>
+  <body>
+    <div class="row">
+      <button id="run">Run</button>
+      <button id="cancel">Cancel</button>
+      <div class="nav" style="margin-left:auto">
+        <button id="prev">Prev</button>
+        <button id="next">Next</button>
+      </div>
+    </div>
+
+    <div class="progress"><div id="bar" class="bar"></div></div>
+    <div class="meta">
+      <div id="counts">0/0 · 0%</div>
+      <div id="hits" title="Click to jump to the first toxic match">0 hits</div>
+    </div>
+
+    <div class="row" style="justify-content: space-between;">
+      <div>State: <strong id="state">ready</strong></div>
+      <small id="note"></small>
+    </div>
+
+    <script src="popup.js"></script>
+  </body>
+</html>

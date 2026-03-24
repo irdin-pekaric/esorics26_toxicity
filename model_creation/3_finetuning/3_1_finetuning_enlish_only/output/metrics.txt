@@ -1,0 +1,12 @@
+Toxicity evaluation — Baseline ONNX vs Finetuned PyTorch
+PyTorch model id: unitary/toxic-bert
+
+Chosen threshold (finetuned): 0.5800
+
+[Finetuned (PyTorch)]
+Threshold : 0.5800
+Accuracy  : 0.9605
+Precision : 0.8571
+Recall    : 0.6857
+F1-Score  : 0.7619
+Confusion : TN=2723, FP=32, FN=88, TP=192

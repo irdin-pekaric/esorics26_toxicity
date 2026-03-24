@@ -1,0 +1,52 @@
+{
+  "baseline_onnx_repo": null,
+  "train_shape": [
+    12136,
+    13
+  ],
+  "test_shape": [
+    3035,
+    13
+  ],
+  "threshold_sweep_used": true,
+  "chosen_threshold_finetuned": 0.58,
+  "metrics": {
+    "baseline_onnx": {
+      "acc": 0.0,
+      "prec": 0.0,
+      "rec": 0.0,
+      "f1": 0.0
+    },
+    "finetuned": {
+      "acc": 0.9604612850082372,
+      "prec": 0.8571428571428571,
+      "rec": 0.6857142857142857,
+      "f1": 0.7619047619047619
+    },
+    "parity_exported": {
+      "onnx_fp32": {
+        "acc": 0.962890625,
+        "prec": 0.8571428571428571,
+        "rec": 0.6818181818181818,
+        "f1": 0.759493670886076
+      },
+      "onnx_qdynamic": {
+        "acc": 0.962890625,
+        "prec": 0.8378378378378378,
+        "rec": 0.7045454545454546,
+        "f1": 0.7654320987654321
+      }
+    }
+  },
+  "artifacts": {
+    "baseline_predictions_csv": null,
+    "finetuned_predictions_csv": "/Users/jonasave/toxicity_prep_Esorics/3_finetuning/3_1_finetuning_enlish_only/output/finetuned_predictions.csv",
+    "baseline_cm_png": "/Users/jonasave/toxicity_prep_Esorics/3_finetuning/3_1_finetuning_enlish_only/output/baseline_onnx_confusion_matrix.png",
+    "finetuned_cm_png": "/Users/jonasave/toxicity_prep_Esorics/3_finetuning/3_1_finetuning_enlish_only/output/finetuned_confusion_matrix.png",
+    "metrics_txt": "/Users/jonasave/toxicity_prep_Esorics/3_finetuning/3_1_finetuning_enlish_only/output/metrics.txt",
+    "checkpoint_pt": "/Users/jonasave/toxicity_prep_Esorics/3_finetuning/3_1_finetuning_enlish_only/output/best_model.pt",
+    "finetuned_dir": "/Users/jonasave/toxicity_prep_Esorics/3_finetuning/3_1_finetuning_enlish_only/output/finetuned_model",
+    "onnx": "/Users/jonasave/toxicity_prep_Esorics/3_finetuning/3_1_finetuning_enlish_only/output/onnx_ft/toxic_bert_finetuned.onnx",
+    "onnx_dynamic_quant": "/Users/jonasave/toxicity_prep_Esorics/3_finetuning/3_1_finetuning_enlish_only/output/onnx_ft/toxic_bert_finetuned.qdynamic.onnx"
+  }
+}
