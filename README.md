@@ -39,10 +39,8 @@ It contains the following folders and files:
 
 ---
 
-## 📦 Trained Models
+## 📦 Alternative download
 
-The trained models used in our experiments are very large and therefore not included directly in this repository.
-
-To facilitate reproducibility, we provide an extended version of the **model_creation** folder (including the trained models) at the following anonymous link:
+We provide the files from Github also as an alternative download at the following anonymous link:
 
 https://mega.nz/file/vwkTWSiQ#Kp_SWV0xg2lTAKdf1ELoQFjWwiC91k3bd0MM8rPFI9Q
