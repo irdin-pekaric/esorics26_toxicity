@@ -43,4 +43,4 @@ It contains the following folders and files:
 
 We provide the files from Github also as an alternative download at the following anonymous link:
 
-https://mega.nz/file/vwkTWSiQ#Kp_SWV0xg2lTAKdf1ELoQFjWwiC91k3bd0MM8rPFI9Q
+https://mega.nz/file/zsdRGDZI#1PJtKYwPHuTquMBHn2s-KfGLSaeOOQTYUQd1to7aBZo
